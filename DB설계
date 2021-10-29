@@ -1,0 +1,33 @@
+CREATE DATABASE Capstone default CHARACTER SET UTF8;
+
+USE Capstone;
+
+CREATE TABLE Store_Info(
+	store_name VARCHAR(100) PRIMARY KEY,
+	address VARCHAR(100) NOT NULL,
+	district_name VARCHAR(50) NOT NULL,
+	category VARCHAR(50)
+)ENGINE=INNODB;
+
+CREATE TABLE Brand(
+	brand_id INT PRIMARY KEY,
+	brand_name VARCHAR(30) NOT NULL,
+	positive_rate FLOAT NOT NULL,
+	negative_rate FLOAT NOT NULL
+)ENGINE=INNODB;
+
+CREATE TABLE SourceData(
+	store_idx INT PRIMARY KEY,
+	brand_id INT NOT NULL,
+	user_id VARCHAR(50) NOT NULL,
+	twt_idx INT NOT NULL
+)ENGINE=INNODB;
+
+CREATE TABLE OriginTweet(
+	twt_idx INT PRIMARY KEY,
+	original_text VARCHAR(140) NOT NULL,
+	rt_num INT NOT NULL,
+	morpheme_list JSON NOT NULL,
+	keyword_list JSON NOT NULL,
+	img_file LONGBLOB
+)ENGINE=INNODB;
