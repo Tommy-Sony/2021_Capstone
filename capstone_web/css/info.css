@@ -1,0 +1,29 @@
+section{
+    text-align:left;
+}
+
+section .main-info{
+    position: relative;
+    width: 500px; height:50%;
+    left:50px;
+
+}
+
+section h1{
+    content: "";
+    display: block;
+    position: relative; left:30px; top:40%;
+    width: 300px; height: 50px;
+    color:#ff9f24;
+    font-size: 40px;
+}
+
+section .main-info article{
+    content:"";
+    display: block;
+    position: relative;
+    width: 400px;   height:100px;
+    left:20px; top:45%;
+    font-size: 14px;
+    color:#8d8d8d;
+}

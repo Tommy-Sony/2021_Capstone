@@ -1,0 +1,23 @@
+button{
+    width : 150px;
+    height : 150px;
+    background-color: #ff9f24;
+    color:white;
+    border: none;
+    font-family: Broadway;
+    font-size: 24;
+    border-radius: 50%;
+    box-shadow: 0 3px 10px rgba(255, 159, 36, 0.6);
+    transition:0.4s;
+}
+button:focus{
+    outline: 0;
+}
+
+button:hover{
+    width : 148px;
+    height : 148px;
+    background-color: rgba(255, 159, 36, 0.8);
+    box-shadow: 0 2px 4px rgba(255, 159, 36, 0.6);
+    cursor: pointer;
+}
