@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>카카오 맵 테스트 페이지</title>
+        <title>카카오 맵 api</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style/kakao_test.css">
@@ -12,10 +12,276 @@
     </head>
     <body>
         <div id="map" style="width:100%;height:800px;"></div>
-        <script type="text/javascript" src="js/variables.js"></script>
-        <script type="text/javascript" src="js/drawPolygon.js"></script>
-        <script type="text/javascript" src="js/loadStore.js"></script>
-        <script type="text/javascript" src="js/displayStore.js"></script>
-        <script type="text/javascript" src="js/marker.js"></script>
+        <script>
+
+            var placeOverlay = new kakao.maps.CustomOverlay({zIndex:1}), 
+            contentNode = document.createElement('div'), // 커스텀 오버레이의 컨텐츠 엘리먼트 입니다 
+            markers = [], // 마커를 담을 배열입니다
+            markers_2 = [],
+            currCategory = ''; // 현재 선택된 카테고리를 가지고 있을 변수입니다
+
+            var infoWindows = [];
+            var infoWindows_2 = [];
+
+            var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
+            mapOption = { 
+                center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
+                level: 8 // 지도의 확대 레벨,숫자 작을수록 확대됨
+            };
+        
+            // 지도를 생성합니다
+
+            var map = new kakao.maps.Map(mapContainer, mapOption),
+            customOverlay = new kakao.maps.CustomOverlay({}),
+            infowindow = new kakao.maps.InfoWindow({removable: true});
+
+            //지오코더 켜면 폴리곤이 안 됨 (왜 ㅠㅠ?)
+            //var geocoder = new kakao.maps.services.Geocoder();
+             
+            var geocoder = new kakao.maps.services.Geocoder();
+            var ps = new kakao.maps.services.Places(map); 
+
+        
+        
+        $.getJSON("map_resources/test_loc2.json",function(geojson){
+            var data = geojson.features;
+            var coordinates = [];
+            var name = '';
+            //requestOK = true;
+            $.each(data,function(index,val){
+
+                coordinates=val.geometry.coordinates;
+                name = val.properties.SGG_NM;
+
+                displayArea(coordinates, name);
+            })
+
+        })
+
+        $.getJSON("map_resources/서초구음식점.json",function(store){
+            var data = store;
+            var loc = '';
+            var name = '';
+            //requestOK = true;
+            $.each(data,function(index,val){
+
+                loc=val.전체주소;
+                name = val.업소명;
+
+                displayStore(loc,name,markers);
+            })
+        })
+
+        $.getJSON("map_resources/강남구_모범음식점.json",function(store){
+            var data = store;
+            var loc = '';
+            var name = '';
+            //requestOK = true;
+            $.each(data,function(index,val){
+
+                loc=val.소재지지번;
+                name = val.업소명;
+
+                displayStore(loc,name,markers_2);
+            })
+        })
+
+        
+        var polygons=[];
+        var checkArea ; 
+        var checkClick = false;
+        var checkPolygon = new kakao.maps.Polygon({
+            map : map,
+            path : path,
+            strokeWeight : 4,
+            strokeColor: '#00ff00',
+            strokeOpacity: 0.8,
+            fillColor: '#fff',
+            fillOpacity: 0.5 
+        });
+
+        //행정구역 폴리곤
+        function displayArea(coordinates, name){
+            var path = [];
+            var points = [];
+            //var area_name = [];
+
+            $.each(coordinates[0],function(index,coordinate){
+                var point= new Object();
+                point.x = coordinate[1];
+                point.y = coordinate[0];
+                //area_name = [];
+                points.push(point);
+                path.push(new kakao.maps.LatLng(coordinate[1],coordinate[0]));
+            })
+
+            var polygon = new kakao.maps.Polygon({
+                map : map,
+                path : path,
+                strokeWeight : 4,
+                strokeColor: '#ff0000',
+                strokeOpacity: 0.8,
+                fillColor: '#fff',
+                fillOpacity: 0.5 
+            });
+
+            polygons.push(polygon); //폴리곤 제거 위한 배열 
+
+            kakao.maps.event.addListener(polygon,'mouseover',function(mouseEvent){
+                polygon.setOptions({
+                    fillColor : '#ffff00'
+                });
+                if (checkClick==true){
+                    polygon.setOptions({
+                        strokeColor: '#00ff00',
+                        fillColor: '#ffff00'
+                    });
+                    checkClick=false;
+                }
+
+                if (checkArea !=name){
+                    polygon.setOptions({
+                        strokeColor: '#ff0000'
+                    });
+                    checkArea =name;
+                }
+                var content = name; 
+
+                infowindow.setContent(content); 
+                //customOverlay.setContent('<div class="area">'+name+'</div>');
+
+                customOverlay.setPosition(mouseEvent.LatLng);
+                customOverlay.setMap(map);
+
+            });
+
+            kakao.maps.event.addListener(polygon,'mousemove',function(mouseEvent){
+                customOverlay.setPosition(mouseEvent.LatLng);
+            });
+
+            kakao.maps.event.addListener(polygon,'mouseout',function(){
+                polygon.setOptions({
+                    fillColor : '#fff'
+                });
+                //infowindow.close();
+                customOverlay.setMap(null);
+            });
+
+            kakao.maps.event.addListener(polygon, 'click', function(mouseEvent) {
+                checkClick=true;
+                infowindow.setPosition(mouseEvent.latLng); 
+                checkArea=name;
+                infowindow.setMap(map);
+                
+                if (name !='서초구'){
+                    removeMarker(markers);
+                    removeInfoWindow(infoWindows);
+                    
+                    createMarker(markers_2);
+                }
+                else{
+                    //displayStore(loc,name);
+                    removeMarker(markers_2);
+                    removeInfoWindow(infoWindows_2);
+
+                    createMarker(markers);
+                }
+               
+            });
+    
+        }
+        
+        function removeMarker(markers) {
+            for ( var i = 0; i < markers.length; i++ ) {
+                markers[i].setMap(null);
+            }   
+            //markers = [];
+        }
+
+        function createMarker(markers) {
+            for ( var i = 0; i < markers.length; i++ ) {
+                markers[i].setMap(map);
+            }   
+        }
+        
+        function removeInfoWindow(infoWindows){
+            for ( var i = 0; i < infoWindows.length; i++ ) {
+                infoWindows[i].close();
+            }   
+            //infoWindows = [];
+        }
+
+        function createInfoWindow(infoWindows){
+            for ( var i = 0; i < infoWindows.length; i++ ) {
+                infoWindows[i].open(map,marker);
+            }   
+        }
+
+        function displayStore(loc,name,markers){
+            
+            geocoder.addressSearch(loc, function(result, status) {
+
+                // 정상적으로 검색이 완료됐으면 
+                 if (status === kakao.maps.services.Status.OK) {
+                    var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
+                    // 결과값으로 받은 위치를 마커로 표시합니다
+                    var marker = new kakao.maps.Marker({
+                        map: map,
+                        position: coords
+                        //clickable: true // 마커를 클릭했을 때 지도의 클릭 이벤트가 발생하지 않도록 설정합니다
+                    });
+                    
+                    marker.setMap(null);
+                    markers.push(marker);
+                    
+                    // 인포윈도우로 장소에 대한 설명을 표시합니다
+                    var infowindow = new kakao.maps.InfoWindow({
+                        map: map,
+                        position: coords,
+                        //content: '<div style="width:150px;text-align:center;padding:6px 0;">불고기<br><a href="https://map.kakao.com/link/map/Hello World!," style="color:blue" target="_blank">카카오맵 이동</a></div>',
+                        //content: '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/" style="color:blue" target="_blank">카카오맵 이동</a></div>',
+                        content: '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/'+ result[0].y+','+result[0].x+'" style="color:blue" target="_blank">카카오맵 이동</a></div>',
+                        removable: true
+                    });
+                    
+                    infoWindows.push(infowindow);
+                    infowindow.close();
+                    //infowindow.open(map, marker);
+            
+                    // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
+
+                    kakao.maps.event.addListener(marker, 'click', function() {
+                        infowindow.close();
+
+                        infowindow.open(map, marker);  
+                    });
+
+                } 
+            });    
+        }
+        
+
+        function displayPlaceInfo (place) {
+            var content = '<div class="placeinfo">' +
+                            '   <a class="title" href="' + place.place_url + '" target="_blank" title="' + place.place_name + '">' + place.place_name + '</a>';   
+        
+            if (place.road_address_name) {
+                content += '    <span title="' + place.road_address_name + '">' + place.road_address_name + '</span>' +
+                            '  <span class="jibun" title="' + place.address_name + '">(지번 : ' + place.address_name + ')</span>';
+            }  else {
+                content += '    <span title="' + place.address_name + '">' + place.address_name + '</span>';
+            }                
+           
+            content += '    <span class="tel">' + place.phone + '</span>' + 
+                        '</div>' + 
+                        '<div class="after"></div>';
+        
+            contentNode.innerHTML = content;
+            placeOverlay.setPosition(new kakao.maps.LatLng(place.y, place.x));
+            placeOverlay.setMap(map);  
+        }
+
+        </script>
+        
     </body>
 </html>
