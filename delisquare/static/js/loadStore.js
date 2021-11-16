@@ -1,4 +1,4 @@
-$.getJSON("../map_resources/서초구음식점.json",function(store){
+$.getJSON("static/map_resources/서초구음식점.json",function(store){
     var data = store;
     var loc = '';
     var name = '';
@@ -12,7 +12,7 @@ $.getJSON("../map_resources/서초구음식점.json",function(store){
     })
 })
 
-$.getJSON("../map_resources/강남구_모범음식점.json",function(store){
+$.getJSON("static/map_resources/강남구_모범음식점.json",function(store){
     var data = store;
     var loc = '';
     var name = '';

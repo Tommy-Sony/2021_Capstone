@@ -1,4 +1,4 @@
-$.getJSON("../map_resources/test_loc2.json",function(geojson){
+$.getJSON("static/map_resources/test_loc2.json",function(geojson){
     var data = geojson.features;
     var coordinates = [];
     var name = '';
