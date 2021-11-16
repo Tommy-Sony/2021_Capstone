@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>델리스퀘어</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/default.css')}}">
+    <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+    <link rel="stylesheet" href="{{url_for('static',filename='css/info.css')}}">
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=3447871dfa6e6eb935a84a9d2d616380&libraries=services,clusterer,drawing"></script>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+  </head>
+  <body>
+    <a href="#" class="skip">본문 바로가기</a>
+    <header>
+      <h1><a href={{url_for('basic')}}>DELIE<br>SQUARE</a></h1>
+      <h2 class="hide">메뉴</h2>
+        <nav calss="menu">
+            <ul>
+              <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">맛집 스퀘어</span></a></li>
+              <li><a href="{{url_for('map')}}">지도</a></li>
+              <li><a href="search.html">검색</a></li>
+              <li><a href="configuration.html">환경 설정</a></li>
+            </ul>
+          </nav>
+    </header>
+    <div class="container">
+      {% block content %}
+      {% endblock %}
+    </div>
+
+  </body>
+</html>

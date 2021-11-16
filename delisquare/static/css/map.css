@@ -1,0 +1,36 @@
+section{
+    text-align:left;
+    margin: 0 auto;
+}
+
+.map-info{
+    position: relative;
+    width: 500px; height:100px;
+    left:50px;
+    padding:10px;
+    padding-bottom: 0;
+}
+
+section h1{
+    content: "";
+    display: block;
+    position: relative; left:30px; top:50%;
+    width: 500px; height: 50px;
+    color:#ff9f24;
+    font-size: 17px;
+}
+
+.map-section{
+    position: relative;
+    width: 80%; height:50%;
+    margin:10px auto;
+    background-color: rgb(72, 181, 196);
+}
+
+.map-section p{
+    content:"";
+    position: relative;
+    left:40%; top:50%;
+    font-size: 14px;
+    color:#fff;
+}
