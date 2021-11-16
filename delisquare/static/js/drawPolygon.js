@@ -71,18 +71,10 @@ function displayArea(coordinates, name){
             });
             checkArea =name;
         }
-        var content = name; 
-
-        infowindow.setContent(content); 
-        //customOverlay.setContent('<div class="area">'+name+'</div>');
-
-        customOverlay.setPosition(mouseEvent.LatLng);
-        customOverlay.setMap(map);
-
     });
 
     kakao.maps.event.addListener(polygon,'mousemove',function(mouseEvent){
-        customOverlay.setPosition(mouseEvent.LatLng);
+
     });
 
     kakao.maps.event.addListener(polygon,'mouseout',function(){
@@ -90,27 +82,36 @@ function displayArea(coordinates, name){
             fillColor : '#fff'
         });
         //infowindow.close();
-        customOverlay.setMap(null);
+        //customOverlay.setMap(null);
     });
 
     kakao.maps.event.addListener(polygon, 'click', function(mouseEvent) {
         checkClick=true;
-        infowindow.setPosition(mouseEvent.latLng); 
         checkArea=name;
+
+        infowindow.setContent(checkArea);
+        infowindow.setPosition(mouseEvent.latLng);
         infowindow.setMap(map);
+        //customOverlay.setMap(map);
         
         if (name !='서초구'){
             removeMarker(markers);
-            removeInfoWindow(infoWindows);
+            //removeInfoWindow(infoWindows);
+
+            removeCustomOverlay(customOverlays);
             
             createMarker(markers_2);
+            //createCustomOverlay(customOverlays_2);
         }
         else{
             //displayStore(loc,name);
             removeMarker(markers_2);
-            removeInfoWindow(infoWindows_2);
+            //removeInfoWindow(infoWindows_2);
+
+            removeCustomOverlay(customOverlays_2);
 
             createMarker(markers);
+            //createCustomOverlay(customOverlays);
         }
        
     });

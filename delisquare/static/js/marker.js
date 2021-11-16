@@ -24,3 +24,15 @@ function createInfoWindow(infoWindows){
     }   
 }
 
+function removeCustomOverlay(customOverlays){
+    for ( var i = 0; i < customOverlays.length; i++ ) {
+        customOverlays[i].setMap(null);
+    }
+}
+
+function createCustomOverlay(customOverlays){
+    for ( var i = 0; i < customOverlays.length; i++ ) {
+        customOverlays[i].setMap(map);
+    }
+}
+
