@@ -1,4 +1,4 @@
-function displayStore(loc,name,markers,customOverlays){
+function displayStore(loc,name,markers,customOverlays,url){
             
     geocoder.addressSearch(loc, function(result, status) {
 
@@ -23,8 +23,8 @@ function displayStore(loc,name,markers,customOverlays){
     '    </div>' +
     '    <ul>' +
     '        <li class="up">' +
-    '            <span class="number">2</span>' +
-    '            <span class="title">명량</span>' +
+    '            <span class="number">링크:</span>' +
+    '            <span class="title">'+'<a href="'+url+'" style="color:red">카카오맵 이동</a>'+'</span>' +
     '            <span class="arrow up"></span>' +
     '            <span class="count">2</span>' +
     '        </li>' +
@@ -66,6 +66,7 @@ function displayStore(loc,name,markers,customOverlays){
                 position: coords,
                 //content: '<div style="width:150px;text-align:center;padding:6px 0;">불고기<br><a href="https://map.kakao.com/link/map/Hello World!," style="color:blue" target="_blank">카카오맵 이동</a></div>',
                 //content: '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/" style="color:blue" target="_blank">카카오맵 이동</a></div>',
+                '<a href="'+url+'">카카오맵 이동</a>'
                 content: content,
                 xAnchor: 0.3,
                 yAnchor: 0.91,
@@ -83,8 +84,6 @@ function displayStore(loc,name,markers,customOverlays){
             //infowindow.open(map, marker); 꺼둔 상태 유지
     
             // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
-
-
             kakao.maps.event.addListener(marker, 'click', function() {
                 //infowindow.close();
                 //infowindow.open(map, marker);

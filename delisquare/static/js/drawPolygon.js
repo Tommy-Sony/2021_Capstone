@@ -89,6 +89,7 @@ function displayArea(coordinates, name){
         checkClick=true;
         checkArea=name;
 
+        //행정구역을 나타내는 infowindow
         infowindow.setContent(checkArea);
         infowindow.setPosition(mouseEvent.latLng);
         infowindow.setMap(map);
