@@ -1,0 +1,81 @@
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>맵</title> 
+        <link rel="stylesheet" href="{{url_for('static',filename='css/default.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/map.css')}}">
+        <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=3447871dfa6e6eb935a84a9d2d616380&libraries=services,clusterer,drawing"></script>
+        <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    </head>
+    <body>
+        <a href="#" class="skip">본문 바로가기</a>
+        <header> 
+            <h1><a href={{url_for('basic')}}>DELIE<br>SQUARE</a></h1>
+            <h2 class="hide">메뉴</h2>
+            <nav class="menu">
+                <ul>
+                    <li><a href="{{url_for('basic')}}">맛집 스퀘어</a></li>
+                    <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">지도</span></a></li>
+                    <li><a href="{{url_for('search')}}">검색</a></li>
+                    <li><a href="{{url_for('config')}}">환경 설정</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+            <!--
+                구를 직접 선택해서 넣을 수 있도록
+                (지역을 선택하세요)(셀렉트박스)
+            -->
+            <div class="map-info">
+                <h1>
+                    살펴보고자 하는 지역구를 선택하세요.
+                </h1>
+            </div>
+            <div id="map" style="width:100%;height:800px;"></div>
+            <script type="text/javascript" src="{{url_for('static',filename='js/drawPolygon.js')}}"></script>
+            <script type="text/javascript" src="{{url_for('static',filename='js/loadStore.js')}}"></script>
+            <script type="text/javascript" src="{{url_for('static',filename='js/displayStore.js')}}"></script>
+            <script type="text/javascript" src="{{url_for('static',filename='js/marker.js')}}"></script>
+            <script>
+            var placeOverlay = new kakao.maps.CustomOverlay({zIndex:1}), 
+            contentNode = document.createElement('div'), // 커스텀 오버레이의 컨텐츠 엘리먼트 입니다 
+            markers = [], // 마커를 담을 배열입니다
+            markers_2 = [],
+            currCategory = ''; // 현재 선택된 카테고리를 가지고 있을 변수입니다
+
+            var infoWindows = [];
+            var infoWindows_2 =[];
+            var customOverlays = [];
+            var customOverlays_2 = [];
+
+            var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
+            mapOption = { 
+                center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
+                level: 9 // 지도의 확대 레벨,숫자 작을수록 확대됨
+            };
+        
+            // 지도를 생성합니다
+
+            var map = new kakao.maps.Map(mapContainer, mapOption),
+            customOverlay = new kakao.maps.CustomOverlay({}),
+            infowindow = new kakao.maps.InfoWindow({removable: true});
+
+            //지오코더 켜면 폴리곤이 안 됨 (왜 ㅠㅠ?)
+            //var geocoder = new kakao.maps.services.Geocoder();
+             
+            var geocoder = new kakao.maps.services.Geocoder();
+            var ps = new kakao.maps.services.Places(map); 
+            </script>
+             
+        </section>
+        <!--
+        <footer>
+            <div>
+                <p>필요한 정보를 적어둡니다.</p>
+            </div>
+        </footer>
+    -->
+    </body>
+</html>
+    

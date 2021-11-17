@@ -1,0 +1,25 @@
+section{
+    position: relative;
+    text-align:center;
+    margin: 0 auto;
+    padding: 40px 20px;
+    column-count: 2;
+}
+
+section .user-font{   
+    content:"";
+    display: block;
+    background: #ff9f24;
+    color:white;
+    padding:20px;
+    width: 200px;   height: 200px;  margin: 0 auto;
+}
+
+section .user-screen{
+    content:"";
+    display: block;
+    background: #6c8801;
+    color: white;
+    padding: 20px;
+    width: 200px;   height: 200px;  margin: 0 auto;
+}

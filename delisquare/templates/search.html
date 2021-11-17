@@ -1,0 +1,54 @@
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>검색</title> 
+        <link rel="stylesheet" href="{{url_for('static',filename='css/default.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/search.css')}}">
+    </head>
+    <body>
+        <a href="#" class="skip">본문 바로가기</a>
+        <header> 
+            <h1><a href={{url_for('basic')}}>DELIE<br>SQUARE</a></h1>
+            <h2 class="hide">메뉴</h2>
+            <nav class="menu">
+                <ul>
+                    <li><a href="{{url_for('basic')}}">맛집 스퀘어</a></li>
+                    <li><a href="{{url_for('map')}}">지도</a></li>
+                    <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">검색</span></a></li>
+                    <li><a href="{{url_for('config')}}">환경 설정</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <!--검색 결과 띄우기
+        검색 성공, 검색 실패-->
+        <section>
+            <div class="search-box">
+                <div class="search-input">
+                     <input type="search" title="검색어 입력"
+                     placeholder="가게 이름 혹은 지역을 입력하세요.">
+                </div>
+                <div class="search-button">
+                     <a href="#a">검색하기</a>
+                </div>
+                <div class="search-section">   
+                  <p>
+                      검색 정보 연결하기
+                  </p>
+                    <!--
+                       검색 정보 연결 
+                    -->
+                </div>
+            </div>  
+        </section>
+        <!--
+        <footer>
+            <div>
+                <p>필요한 정보를 적어둡니다.</p>
+            </div>
+        </footer>
+    -->
+    </body>
+</html>
+    

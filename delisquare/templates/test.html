@@ -1,0 +1,173 @@
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>검색</title>
+        <link rel="stylesheet" href="css/default.css">
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/search.css">
+        <link rel="stylesheet" href="css/table-style.css">
+    </head>
+    <body>
+        <a href="#" class="skip">본문 바로가기</a>
+        <header>
+            <h1><a href="main.html">DELIE<br>SQUARE</a></h1>
+            <h2 class="hide">메뉴</h2>
+            <nav class="menu">
+                <ul>
+                    <li><a href="main.html">맛집 스퀘어</a></li>
+                    <li><a href="map.html">지도</a></li>
+                    <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">검색</span></a></li>
+                    <li><a href="configuration.html">환경 설정</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <!--검색 결과 띄우기
+        검색 성공, 검색 실패-->
+        <section>
+            <div class="search-box">
+                <div class="search-input">
+                     <input type="search" title="검색어 입력"
+                     placeholder="가게 이름 혹은 지역을 입력하세요.">
+                </div>
+                <div class="search-button">
+                     <a href="#a">검색하기</a>
+                </div>
+                <div class="search-section">
+                  <p>
+                      <span style="color:white">검색 정보 연결하기</span>
+
+                  </p>
+                  <table class="table table-bordered table-hover table-condensed">
+                    <thead><tr><th title="Field #1">업소명</th>
+                    <th title="Field #2">긍정치(%)</th>
+                    <th title="Field #3">부정치(%)</th>
+                    <th title="Field #4">총 리뷰 수</th>
+                    <th title="Field #5">긍정적 리뷰 수</th>
+                    <th title="Field #6">부정적 리뷰 수</th>
+                    <th title="Field #7">긍정 반응</th>
+                    <th title="Field #8">부정 반응</th>
+                    </tr></thead>
+                    <tbody><tr>
+                    <td>원조닭한마리</td>
+                    <td>1.0</td>
+                    <td>0.0</td>
+                    <td align="right">18</td>
+                    <td align="right">18</td>
+                    <td align="right">0</td>
+                    <td>맛있어요 국물도, 맛있어서 가시는건가요  대충먹고, 정말 맛있어서, 맛있어서 가시는건가요, 맛은 있다  사람도, 맛은 있다, 맛있어요 국물이 짱임, 무난무난 맛있어요, 맛있어요 국물이, 맛있어요   진짜 국물이, 너무 맛있어요, 맛있어요   진짜, 여전히 맛있고, 먹어보니 맛있네요, 맛있네요 담백해요, 맛있죠   맛은 있어요, 맛있죠   맛은, 있어요  맛만, 맛있죠   맛은, 맛은 있어요, 맛있어요 국물도, 맛있어서 가시는건가요  대충먹고, 정말 맛있어서, 맛있어서 가시는건가요, 맛은 있다  사람도, 맛은 있다, 맛있어요 국물이 짱임, 무난무난 맛있어요, 맛있어요 국물이, 맛있어요   진짜 국물이, 너무 맛있어요, 맛있어요   진짜, 여전히 맛있고, 먹어보니 맛있네요, 맛있네요 담백해요, 맛있죠   맛은 있어요, 맛있죠   맛은, 있어요  맛만, 맛있죠   맛은, 맛은 있어요</td>
+                    <td> </td>
+                    </tr>
+                    <tr>
+                    <td>리엔</td>
+                    <td>0.8</td>
+                    <td>0.2</td>
+                    <td align="right">5</td>
+                    <td align="right">4</td>
+                    <td align="right">1</td>
+                    <td>맛 가성비 최고예요, 가성비 최고예요, 직원분 친절도, 가히 최고의, 최고의 중국음식점이라고</td>
+                    <td>맛 없다 탕수육</td>
+                    </tr>
+                    <tr>
+                    <td>밀란국수 개포본점</td>
+                    <td>1.0</td>
+                    <td>0.0</td>
+                    <td align="right">5</td>
+                    <td align="right">5</td>
+                    <td align="right">0</td>
+                    <td>너무 맛있어요, 맛있어요  건강해졌어요, 맛 그자체 개맛있음, 칼국수집중 최고인듯, 샤브샤브 맛있고, 맛있구요 주차도되요, 음식은 항상 깔끔하고, 맛있었어요   밀란음식은 항상, 너무너무 맛있었어요, 맛있었어요   밀란음식은</td>
+                    <td> </td>
+                    </tr>
+                    <tr>
+                    <td>원조소금구이</td>
+                    <td>0.8</td>
+                    <td>0.2</td>
+                    <td align="right">5</td>
+                    <td align="right">4</td>
+                    <td align="right">1</td>
+                    <td>고기가 맛있고, 신선해서 자주 갑니다, 신선해서 자주, 사장님 두분이 친절하게, 넘넘 맛있었어요, 맛있구 된장찌개 너무, 너무 맛있어요, 맛있구 된장찌개</td>
+                    <td> </td>
+                    </tr>
+                    <tr>
+                    <td>춘천명물닭갈비 1호점</td>
+                    <td>1.0</td>
+                    <td>0.0</td>
+                    <td align="right">1</td>
+                    <td align="right">1</td>
+                    <td align="right">0</td>
+                    <td>맛있어요 최고</td>
+                    <td> </td>
+                    </tr>
+                    <tr>
+                    <td>김수사</td>
+                    <td>0.5714285714285714</td>
+                    <td>0.42857142857142855</td>
+                    <td align="right">14</td>
+                    <td align="right">8</td>
+                    <td align="right">6</td>
+                    <td>당연히 맛있고, 서비스는 나름 친절했고, 맛있었습니다  비린내도, 맛은 있으나 여직원들, 맛은 있으나, 맛있네요  룸에서 식사했는데, 맛있네요  룸에서, 훌륭하나 분위기는</td>
+                    <td>사장이 신경안쓰는 가게인듯, 사장이 신경안쓰는, 비추  맛없고, 최악의 서비스가, 아쉽다 서비스는, 없는 서비스를, 안겪는 서비스를, 최악의 서비스다, 최악의 서비스가, 아쉽다 서비스는, 없는 서비스를, 안겪는 서비스를, 최악의 서비스다, 다시는 안갈 최악의, 다시는 안갈</td>
+                    </tr>
+                    <tr>
+                    <td>신사뻘낙지</td>
+                    <td>0.3333333333333333</td>
+                    <td>0.6666666666666666</td>
+                    <td align="right">3</td>
+                    <td align="right">1</td>
+                    <td align="right">2</td>
+                    <td>진짜 맛있음</td>
+                    <td>맛이 별로지만, 사장이 좀 불친절한데</td>
+                    </tr>
+                    <tr>
+                    <td>한성칼국수</td>
+                    <td>0.7777777777777778</td>
+                    <td>0.2222222222222222</td>
+                    <td align="right">9</td>
+                    <td align="right">7</td>
+                    <td align="right">2</td>
+                    <td>정말 맛있습니다, 넘모 맛있잖아, 맛있잖아     강원도, 맛있어서   쫘증나, 맛은 있지만, 너무 부드럽고, 맛은 좋으나 양이, 맛은 좋으나, 음식이 깔끔하고</td>
+                    <td>맛은 나쁘지 않다</td>
+                    </tr>
+                    <tr>
+                    <td>불이아 강남점</td>
+                    <td>0.3333333333333333</td>
+                    <td>0.6666666666666666</td>
+                    <td align="right">3</td>
+                    <td align="right">1</td>
+                    <td align="right">2</td>
+                    <td>맛은 있어요   근데, 맛은 있어요</td>
+                    <td>서비스가 너무 별로였어서, 서비스가 너무 별로였어서</td>
+                    </tr>
+                    <tr>
+                    <td>배정철 어도</td>
+                    <td>1.0</td>
+                    <td>0.0</td>
+                    <td align="right">2</td>
+                    <td align="right">2</td>
+                    <td align="right">0</td>
+                    <td>신선한 해산물  추천, 느껴지는곳  신선한, 신선한 해산물, 맛있네요    하나하나 정성이, 다 맛있어요, 너무 맛있네요, 맛있어요 점심정식, 맛있네요    하나하나</td>
+                    <td> </td>
+                    </tr>
+                    <tr>
+                    <td>취영루 논현점</td>
+                    <td>0.4</td>
+                    <td>0.6</td>
+                    <td align="right">5</td>
+                    <td align="right">2</td>
+                    <td align="right">3</td>
+                    <td>요기로는 최고지만, 맛있는 곳  이집을, 짜장이 맛있는, 맛있는 곳</td>
+                    <td>맛까지는 아니지만, 다시 생각나진 않을, 맛집이 아닌것으로  조미료를, 맛집이 아닌것으로, 다시 생각나진 않을, 맛집이 아닌것으로  조미료를, 맛집이 아닌것으로</td>
+                    </tr>
+                </tbody></table>
+                </div>
+            </div>
+        </section>
+        <!--
+        <footer>
+            <div>
+                <p>필요한 정보를 적어둡니다.</p>
+            </div>
+        </footer>
+    -->
+    </body>
+</html>

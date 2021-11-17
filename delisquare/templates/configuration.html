@@ -1,0 +1,63 @@
+<html lang="ko">
+<!--
+-다크모드 변경(백그라운드 컬러, 폰트 컬러 등)
+-폰트 사이즈 변경(사이즈 변경 후 반응형 작동 가능)
+>>(작게>>고민좀..) 중간, 크게
+-->
+
+    <head>
+        <meta charset="utf-8">
+        <title>검색</title> 
+        <link rel="stylesheet" href="{{url_for('static',filename='css/default.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/user-option.css')}}">
+    </head>
+    <body>
+        <a href="#" class="skip">본문 바로가기</a>
+        <header> 
+            <h1><a href={{url_for('basic')}}>DELIE<br>SQUARE</a></h1>
+            <h2 class="hide">메뉴</h2>
+            <nav class="menu">
+                <ul>
+                    <li><a href="{{url_for('basic')}}">맛집 스퀘어</a></li>
+                    <li><a href="{{url_for('map')}}">지도</a></li>
+                    <li><a href="{{url_for('search')}}">검색</a></li>
+                    <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">환경 설정</span></a></li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+            <fieldset class="user-font">
+                <h1>
+                    글씨 크기 변경
+                </h1>
+                <div>
+                    <label><input type="radio" name="글씨 크기" value="보통">보통</label>
+                </div>
+                <div>
+                    <label><input type="radio" name="글씨 크기" value="크게">크게</label>
+                </div>
+            </fieldset>
+            <fieldset class="user-screen">
+                <h1>
+                    화면 모드 변경
+                </h1>
+                <div>
+                    <label><input type="radio" name="화면 밝기" value="밝게">밝게</label>
+                </div>
+                <div>
+                    <label><input type="radio" name="화면 밝기" value="어둡게">어둡게</label>
+                </div>
+            </fieldset>
+             
+        </section>
+        <!--
+        <footer>
+            <div>
+                <p>필요한 정보를 적어둡니다.</p>
+            </div>
+        </footer>
+    -->
+    </body>
+</html>
+    

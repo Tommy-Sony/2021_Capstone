@@ -1,0 +1,68 @@
+header{
+    text-align:center;
+    height: 140px;
+   
+}
+
+header:after{
+    content:"";
+    display: block;
+    position: relative; left:0; top: 100%;
+    width: 100%; height: 2px;
+    background: #ff9f24;
+}
+
+header h1{
+    position: absolute; left:50px; top:0px;
+    padding: 15px 0 0;
+}
+
+header h1 a{
+    display: block;
+    width: 110px; height:110px;
+    color:transparent;
+    background: url(../img/main-logo.png) no-repeat;
+}
+header h1 a:hover{
+    display: block;
+    width: 110px; height:110px;
+    border-radius: 50%;
+    box-shadow:0 0px 8px rgba(255, 196, 119, 0.897);
+   
+}
+
+header .menu{    position: absolute; right:50px; top: 100px;}
+
+header .menu li{
+    position: relative;
+    display: inline-block;
+}
+
+header .menu li:after{
+    content:"";
+    position: absolute; left:0; top: 50%;
+    width: 2px;    height: 17px;
+    background: #ff9f24;
+    transform: translateY(-42%);
+}
+header .menu li:first-child:after{display: none;}
+header .menu li a{
+    float: left;
+    display: block; height: 50%px; padding: 0 15px;
+    font-size: 17px;
+    color: #b4b4b4;
+}
+
+header .menu li:last-child a{   padding-right: 0;}
+
+header .menu li a:hover{
+    color: #ff9f24;
+    font-weight: bold;
+    transition: 0.5s;
+    /*text-decoration: underline;*/
+}
+header .menu li a:after{
+    content: "";
+    display: block;   
+}
+
