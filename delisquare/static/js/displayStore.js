@@ -15,39 +15,19 @@ function displayStore(loc,name,markers,customOverlays,url){
             marker.setMap(null);
             markers.push(marker);
 
-            var content = '<div class="overlaybox">' +
-    '    <div class="boxtitle">가게 정보</div>' +
-    '    <div class="first">' +
-    '        <div class="triangle text">1</div>' +
-    '        <div class="movietitle text">'+name+'</div>' +
-    '    </div>' +
-    '    <ul>' +
-    '        <li class="up">' +
-    '            <span class="number">링크:</span>' +
-    '            <span class="title">'+'<a href="'+url+'" style="color:red">카카오맵 이동</a>'+'</span>' +
-    '            <span class="arrow up"></span>' +
-    '            <span class="count">2</span>' +
-    '        </li>' +
-    '        <li>' +
-    '            <span class="number">3</span>' +
-    '            <span class="title">해적(바다로 간 산적)</span>' +
-    '            <span class="arrow up"></span>' +
-    '            <span class="count">6</span>' +
-    '        </li>' +
-    '        <li>' +
-    '            <span class="number">4</span>' +
-    '            <span class="title">해무</span>' +
-    '            <span class="arrow up"></span>' +
-    '            <span class="count">3</span>' +
-    '        </li>' +
-    '        <li>' +
-    '            <span class="number">5</span>' +
-    '            <span class="title">안녕, 헤이즐</span>' +
-    '            <span class="arrow down"></span>' +
-    '            <span class="count">1</span>' +
-    '        </li>' +
-    '    </ul>' +
-    '</div>';
+            var content= '<div class="overlaybox">' +
+            '<div class="name">' +
+                name +
+                    '<span class="close" onclick="closeOverlay()" title="닫기"></span>' +
+            '</div>'+
+            '<div class="block"></div>' +
+            '<span class="img">이미지</span>' +
+            '<div class = "content">' +
+                '<span>'+name+'</span>' +
+                '<span class="menu">주요 메뉴</span>' +
+            '</div>' +
+
+            '<a href="'+url+'" style="color:red">카카오맵 이동</a>'
 
             //var content = '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/'+ result[0].y+','+result[0].x+'" style="color:blue" target="_blank">카카오맵 이동</a></div>'
             //커스텀 오버레이로 장소에 대한 설명 표시
