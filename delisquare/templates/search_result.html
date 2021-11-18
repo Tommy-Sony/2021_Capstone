@@ -34,18 +34,16 @@
                      <a>검색하기</a>
                 </button>
                 </form>
-                <div class="search-section">   
-                  <p>
-                      검색 정보 연결하기
-                      <tr>
-                           <td>test1</td>
-                           <td>test2</td>
-                      </tr>
-                  </p>
+                {% for post in posts %}
+                <div class="search-section">
+                  <h1>{{ post.author.storename }}</h1>
+                    <h2>{{ post.review }}</h2>
+                    <p>{{ post.rank }}</p>
                     <!--
                        검색 정보 연결 
                     -->
                 </div>
+                {% endfor %}
             </div>  
         </section>
         <!--

@@ -15,10 +15,13 @@ function displayStore(loc,name,markers,customOverlays,url){
             marker.setMap(null);
             markers.push(marker);
 
+
+            var overlay_var = "'"+customOverlays+"'";
+            //함수 부분 바꿔야댐 (왜....안 되지?)
             var content= '<div class="overlaybox">' +
             '<div class="name">' +
                 name +
-                    '<span class="close" onclick="closeOverlay()" title="닫기"></span>' +
+                    '<span class="close" onclick="removeCustomOverlay('+overlay_var+')" title="닫기"></span>' +
             '</div>'+
             '<div class="block"></div>' +
             '<span class="img">이미지</span>' +
@@ -27,7 +30,7 @@ function displayStore(loc,name,markers,customOverlays,url){
                 '<span class="menu">주요 메뉴</span>' +
             '</div>' +
 
-            '<a href="'+url+'" style="color:red">카카오맵 이동</a>'
+            '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'
 
             //var content = '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/'+ result[0].y+','+result[0].x+'" style="color:blue" target="_blank">카카오맵 이동</a></div>'
             //커스텀 오버레이로 장소에 대한 설명 표시
@@ -72,7 +75,9 @@ function displayStore(loc,name,markers,customOverlays,url){
                 overlay.setMap(map,marker);
             });
 
-        } 
+
+
+        }
     });    
 }
 
