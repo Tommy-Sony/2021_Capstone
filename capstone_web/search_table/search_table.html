@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <script src="https://ajax.gooleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="data_set.js"></script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/0.10.0/lodash.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+
+    </head>
+
+    <body>
+        <section>
+            <div class="search-box">
+                <form id="form">
+                    <input class="form-control" id="user-input" 
+                    placeholder="가게 이름 혹은 지역을 입력하세요.">
+                    <button id="button" class="btn-secondary">검색하기</button>
+                </form>
+                  <table class="table" cellpadding="10">
+                      <thead>
+                          <tr>
+                              <th scope="col">상호명</th>
+                              <th scope="col">긍정치</th>
+                              <th scope="col">부정치</th>
+                              <th scope="col">총 리뷰 수</th>
+                              <th scope="col">긍정 리뷰</th>
+                              <th scope="col">부정 리뷰</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                        
+                      </tbody>
+                  </table>
+            </div>  
+        </section>
+    </body>
+</html>
