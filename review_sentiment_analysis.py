@@ -68,7 +68,7 @@ negative_word_emotion = ['안','않','못','없','아닌','아니']
 
 
 ##### 크롤링 데이터 로드 #####
-df = pd.read_csv(r'kko_review.csv', names=['store name', 'review', 'rating'])
+df = pd.read_csv(r'kko_review_text_4.csv', names=['store name', 'review', 'rating'])
 okt = Okt()
 kkma = Kkma()
 
@@ -117,6 +117,7 @@ def get_feature_keywords(feature_keywords, review):
                 t = ()
                 feature_temp.append(t + (ngram,keyword))
             for ngram in d:
+
                 t = ()
                 feature_temp.append(t + (ngram,keyword))
 
@@ -126,6 +127,8 @@ def get_feature_keywords(feature_keywords, review):
 def get_feature_emotions(feature_good_dict,feature_bad_dict, feature_temp):
     good_feature_emotion_list = []
     bad_feature_emotion_list = []
+    good_feature_keyword_set = set()
+    bad_feature_keyword_set = set()
 
     for ngrams in feature_temp:
         keyword = ngrams[1]
@@ -152,12 +155,14 @@ def get_feature_emotions(feature_good_dict,feature_bad_dict, feature_temp):
                     is_bad_feature = True
                     break   
         if is_bad_feature:
+            bad_feature_keyword_set.add(keyword)
             bad_feature_emotion_list.append(ngram)
         elif is_bad_feature == False:
+            good_feature_keyword_set.add(keyword)
             good_feature_emotion_list.append(ngram)
         else:
             pass
-    return good_feature_emotion_list, bad_feature_emotion_list
+    return good_feature_emotion_list, bad_feature_emotion_list, good_feature_keyword_set, bad_feature_keyword_set
 
 #맛에 대한 감정 추출
 def get_taste_emotion(taste_good_emotions, taste_bad_emotions):
@@ -205,19 +210,25 @@ for s in norm_list:
     restaurant_bad_taste_count = 0
 
     service_temp = get_feature_keywords(service_good_feature.keys(), s)
-    good_service,bad_service = get_feature_emotions(service_good_feature, service_bad_feature, service_temp)
+    good_service, bad_service, good_service_keyword, bad_service_keyword = \
+        get_feature_emotions(service_good_feature, service_bad_feature, service_temp)
 
     atmosphere_temp = get_feature_keywords(atmosphere_good_feature.keys(), s)
-    good_atmosphere,bad_atmosphere = get_feature_emotions(atmosphere_good_feature, atmosphere_bad_feature, atmosphere_temp)
+    good_atmosphere, bad_atmosphere, good_atmosphere_keyword, bad_atmosphere_keyword = \
+        get_feature_emotions(atmosphere_good_feature, atmosphere_bad_feature, atmosphere_temp)
 
-    cost_temp = get_feature_keywords(cost_good_feature.keys(), s)
-    good_cost,bad_cost = get_feature_emotions(cost_good_feature, cost_bad_feature, cost_temp)
+    cost_temp= get_feature_keywords(cost_good_feature.keys(), s)
+    good_cost, bad_cost, good_cost_keyword, bad_cost_keyword = \
+        get_feature_emotions(cost_good_feature, cost_bad_feature, cost_temp)
 
     visit_temp = get_feature_keywords(visit_good_feature.keys(), s)
-    good_visit,bad_visit = get_feature_emotions(visit_good_feature, visit_bad_feature, visit_temp)
+    good_visit, bad_visit, good_visit_keyword, bad_visit_keyword = \
+        get_feature_emotions(visit_good_feature, visit_bad_feature, visit_temp)
 
     taste_temp = get_feature_keywords(taste_good_feature.keys(), s)
-    good_taste,bad_taste = get_feature_emotions(taste_good_feature, taste_bad_feature, taste_temp)
+    good_taste, bad_taste,  good_taste_keyword, bad_taste_keyword = \
+        get_feature_emotions(taste_good_feature, taste_bad_feature, taste_temp)
+
     taste_good_emotion_temp = get_feature_keywords(taste_good_emotion, s)
     taste_bad_emotion_temp = get_feature_keywords(taste_bad_emotion, s)
     good_taste2, bad_taste2 = get_taste_emotion(taste_good_emotion_temp,taste_bad_emotion_temp)
@@ -260,6 +271,9 @@ for s in norm_list:
         pass
         
     TT = restaurant_good_service_count + restaurant_bad_service_count + restaurant_good_taste_count + restaurant_bad_taste_count + restaurant_good_atmosphere_count + restaurant_bad_atmosphere_count + restaurant_good_cost_count + restaurant_bad_cost_count
+    good_keywords = set()
+    bad_keywords = set()
+
     g=[]
     b=[]
     if TT > 0:
@@ -269,38 +283,49 @@ for s in norm_list:
         if good_service or bad_service:
             if good_service:
                 g+=good_service
+                good_keywords.update(good_service_keyword)
             if bad_service:
                 b+=bad_service
+                bad_keywords.update(bad_service_keyword)
             print(good_service, bad_service)
 
         if good_atmosphere or bad_atmosphere:
             if good_atmosphere:
                 g+=good_atmosphere
+                good_keywords.update(good_atmosphere_keyword)
             if bad_service:
                 b+=bad_service
+                bad_keywords.update(bad_atmosphere_keyword)
             print(good_atmosphere, bad_atmosphere)
 
 
         if good_cost or bad_cost:
             if good_atmosphere:
                 g+=good_atmosphere
+                good_keywords.update(good_cost_keyword)
             if bad_service:
                 b+=bad_service
+                bad_keywords.update(bad_cost_keyword)
             print(good_cost, bad_cost)
 
         if good_visit or bad_visit:
             if good_visit:
                 g+=good_visit
+                #good_keywords.update(good_visit_keyword)
             if bad_visit:
                 b+=bad_visit
+                #bad_keywords.update(bad_visit_keyword)
             print(good_visit, bad_visit)
 
         if good_taste or bad_taste:
             if good_taste:
                 g+=good_taste
+                good_keywords.update(good_taste_keyword)
             if bad_taste:
                 b+=bad_taste
+                bad_keywords.update(bad_taste_keyword)
             print(good_taste, bad_taste)
+
 
         print('Total review count: {}'.format(len(s)))
         print('Good service: {}/{} = {}'.format(restaurant_good_service_count,restaurant_good_service_count + restaurant_bad_service_count,100*check_division(restaurant_good_service_count, restaurant_good_service_count + restaurant_bad_service_count)))
@@ -309,14 +334,22 @@ for s in norm_list:
         print('Good taste: {}/{} = {}'.format(restaurant_good_taste_count,restaurant_good_taste_count + restaurant_bad_taste_count,100*check_division(restaurant_good_taste_count,restaurant_good_taste_count + restaurant_bad_taste_count)))
         print('')
 
+        gk = []
+        bk = []
+        gk+=(list(good_keywords))
+        bk+=(list(bad_keywords))
+        print(gk, bk)
+
         df2 = pd.DataFrame(
                 {
                     'store name': store_name[cnt], \
                     'total': TT, \
                     'good_cnt_all': restaurant_good_service_count + restaurant_good_taste_count + restaurant_good_atmosphere_count + restaurant_good_cost_count, \
                     'bad_cnt_all':restaurant_bad_service_count + restaurant_bad_taste_count + restaurant_bad_atmosphere_count + restaurant_bad_cost_count, \
-                    'good_keyword' : ", ".join(g), \
-                    'bad_keyword' : ", ".join(b)
+                    'good_review' : ", ".join(g), \
+                    'bad_review' : ", ".join(b), \
+                    'good_keyword' : ", ".join(gk), \
+                    'bad_keyword' : ", ".join(bk)
                 },
                 index=[0]
             )
