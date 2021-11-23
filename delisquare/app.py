@@ -1,26 +1,10 @@
 import os
 from database import db
+import pymysql
 from flask import Flask, render_template , request
 
 app = Flask(__name__)
-###############################################
-posts = [
-    {
-        'author': {
-            'storename': 'store_1'
-        },
-        'review': '맛있어요',
-        'rank': '총 4.6점'
-    },
-    {
-        'author': {
-            'storename': 'store_2'
-        },
-        'review': '별로에요',
-        'rank': '총 1.7점'
-    },
-]
-###############################################
+
 @app.route('/')
 def basic():
     return render_template("main.html")
@@ -45,7 +29,30 @@ def config():
 def search_store():
     #result => 가게명(keyword) 이용해 DB 검색한 결과
     result= request.form['keyword']
-    return render_template("search_result.html",posts=posts)
+    connect_db = pymysql.connect(host='localhost', user='root', db='capstone', password='0000', charset='utf8')
+    curs = connect_db.cursor()
+    sql = "SELECT store_name, pos_rate, pos_keyword FROM kakao_review where store_name = %s"
+    curs.execute(sql, result)
+    sql_result = curs.fetchall()
+    posts = []
+    hashtag = []
+
+    if not sql_result:
+        print()
+        #검색결과 없음 페이지
+    else:
+        originalList = ("".join(sql_result[0][2])).split(', ')
+        hashtagList = ["#"+x for x in originalList]
+
+        sql_result_dict = {}
+        sql_result_dict['author'] = {
+                'storename': sql_result[0][0]
+        }
+        sql_result_dict['rank'] = str(int(sql_result[0][1]*100)) + "%"
+        sql_result_dict['review'] = ' '.join(hashtagList)
+        posts.append(sql_result_dict)
+
+    return render_template("search_result.html", posts=posts)
     #return render_template("search_result.html",result=result)
 
 ###############################################
@@ -66,11 +73,11 @@ app.config['SECRET_KEY'] = 'jqiowejrojzxcovnklqnweiorjqwoijroi'
 db.init_app(app)
 db.app = app
 db.create_all()
+
 ###############################################
 
 if __name__=='__main__':
     app.run(host='127.0.0.1', port=5000, debug=True)
     #127.0.0.1
     # debug = True -> 코드 수정할 때마다 Flask가 인식해서 다시 시작
-
 

@@ -2,32 +2,45 @@ CREATE DATABASE Capstone default CHARACTER SET UTF8;
 
 USE Capstone;
 
-CREATE TABLE Store_Info(
+CREATE OR REPLACE TABLE Store_Info(
 	store_name VARCHAR(100) PRIMARY KEY,
 	address VARCHAR(100) NOT NULL,
 	district_name VARCHAR(50) NOT NULL,
 	category VARCHAR(50)
 )ENGINE=INNODB;
 
-CREATE TABLE Brand(
+CREATE OR REPLACE TABLE Brand(
 	brand_id INT PRIMARY KEY,
 	brand_name VARCHAR(30) NOT NULL,
 	positive_rate FLOAT NOT NULL,
 	negative_rate FLOAT NOT NULL
 )ENGINE=INNODB;
 
-CREATE TABLE SourceData(
+CREATE OR REPLACE TABLE SourceData(
 	store_idx INT PRIMARY KEY,
 	brand_id INT NOT NULL,
 	user_id VARCHAR(50) NOT NULL,
 	twt_idx INT NOT NULL
 )ENGINE=INNODB;
 
-CREATE TABLE OriginTweet(
+CREATE OR REPLACE TABLE OriginTweet(
 	twt_idx INT PRIMARY KEY,
 	original_text VARCHAR(140) NOT NULL,
 	rt_num INT NOT NULL,
 	morpheme_list JSON NOT NULL,
 	keyword_list JSON NOT NULL,
 	img_file LONGBLOB
+)ENGINE=INNODB;
+
+CREATE OR REPLACE TABLE kakao_review(
+	store_name VARCHAR(100) PRIMARY KEY,
+	pos_rate FLOAT,
+	nag_rate FLOAT,
+	storeTT INT,
+	store_POS INT,
+	store_NAG INT,
+	pos_review VARCHAR(1000),
+	nag_review VARCHAR(1000),
+	pos_keyword VARCHAR(1000),
+ 	nag_keyword VARCHAR(1000)
 )ENGINE=INNODB;
