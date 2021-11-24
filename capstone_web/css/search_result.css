@@ -1,0 +1,69 @@
+.search-section{
+    position: relative;
+    width: 600px;
+    margin:0px auto;
+    margin: 30px;
+}
+
+section .search-section{
+    height: 300px;
+    content: block;
+    border-width: 5px;
+    border-color: #ff9f24;
+    border-style: double;
+}
+
+section .search-section h1{
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    color: #6c8801;
+    font-weight: bolder;
+    border-bottom: dashed;
+    border-bottom-color: #ff9f24;
+}
+
+section .search-section .chart{
+    position: absolute;
+    content: block;
+    margin-top: 20px;
+    height: 180px; width: 170px;
+    background-color: aqua;
+    margin-left: 30px;
+}
+
+section .search-section .location{
+    position: absolute;
+    margin-top: 30px;
+    font-size: 20px;
+    left: 45%;
+}
+
+section .search-section .mainmenu{
+    position: absolute;
+    font-size: 20px;
+    left: 45%;
+    top: 50%
+}
+
+section .search-section .keyword{
+    position: relative;
+    top : 130px;
+    margin: 30px;
+    left: 240px;
+    text-align: auto;
+    
+}
+
+.search-fail{
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    color:#6c8801;
+}
+
+/*
+search-section 박스 중앙 정렬
+웨 안 되지,,,
+*/
