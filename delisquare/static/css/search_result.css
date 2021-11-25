@@ -6,7 +6,7 @@
 }
 
 section .search-section{
-    height: 300px;
+    height: auto;
     content: block;
     border-width: 5px;
     border-color: #ff9f24;
@@ -53,7 +53,6 @@ section .search-section .keyword{
     margin: 30px;
     left: 240px;
     text-align: auto;
-
 }
 
 .search-fail{
@@ -61,4 +60,11 @@ section .search-section .keyword{
     text-align: center;
     font-size: 20px;
     color:#6c8801;
+}
+
+section .section-img{
+    max-width: 100%;
+    height: auto;
+    margin-top:5px;
+    margin-bottom:5px;
 }

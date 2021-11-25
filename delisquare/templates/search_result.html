@@ -39,13 +39,16 @@
                 </form>
                 {% if posts %}
                 {% for post in posts %}
-                <div class="search-section">
+                <div class="search-section" >
                   <h1>{{ post.author.storename }}</h1>
                     <h2>{{ post.review }}</h2>
-                    <p>{{ post.rank }}</p>
+                    <h3>{{ post.rank }}</h3>
                     <!--
                        검색 정보 연결
                     -->
+                    <div>
+                    <img src="{{url_for('static',filename='img/리엔.png')}}" class="section-img">
+                    </div>
                 </div>
                 {% endfor %}
                 {% else %}
