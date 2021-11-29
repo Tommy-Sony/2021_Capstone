@@ -1,0 +1,1557 @@
+﻿[
+{
+	"address_name": "서울 성동구 성수동1가 656-435",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "11247693",
+	"phone": "02-466-6789",
+	"place_name": "승리원",
+	"place_url": "http://place.map.kakao.com/11247693",
+	"road_address_name": "서울 성동구 왕십리로 78",
+	"x": "127.045140497226",
+	"y": "37.5444745659109"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 668-32",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "21333331",
+	"phone": "02-464-1203",
+	"place_name": "청죽골",
+	"place_url": "http://place.map.kakao.com/21333331",
+	"road_address_name": "서울 성동구 서울숲4길 28-3",
+	"x": "127.044010345168",
+	"y": "37.5468824620463"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 335-67",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "269389813",
+	"phone": "",
+	"place_name": "푸른바다횟집",
+	"place_url": "http://place.map.kakao.com/269389813",
+	"road_address_name": "서울 성동구 성덕정15길 4-17",
+	"x": "127.054287940609",
+	"y": "37.5380267648421"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 656-835",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1582312126",
+	"phone": "02-2292-6696",
+	"place_name": "성일정육식당",
+	"place_url": "http://place.map.kakao.com/1582312126",
+	"road_address_name": "서울 성동구 아차산로3길 9",
+	"x": "127.046962453991",
+	"y": "37.5482940909314"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 668-54",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "1493852185",
+	"phone": "02-6403-3643",
+	"place_name": "온량",
+	"place_url": "http://place.map.kakao.com/1493852185",
+	"road_address_name": "서울 성동구 서울숲4길 26-10",
+	"x": "127.043440031512",
+	"y": "37.5469079011998"
+}
+,{
+	"address_name": "서울 성동구 홍익동 133",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 한정식",
+	"distance": "",
+	"id": "809925978",
+	"phone": "02-2291-9073",
+	"place_name": "왕십리연탄집",
+	"place_url": "http://place.map.kakao.com/809925978",
+	"road_address_name": "서울 성동구 무학로6길 51",
+	"x": "127.035858988391",
+	"y": "37.5649150803718"
+}
+,{
+	"address_name": "서울 성동구 홍익동 101-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 아구",
+	"distance": "",
+	"id": "16376846",
+	"phone": "02-2291-8897",
+	"place_name": "소대아구찜",
+	"place_url": "http://place.map.kakao.com/16376846",
+	"road_address_name": "서울 성동구 마장로 211",
+	"x": "127.0331873604",
+	"y": "37.5665673873209"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-14",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "23279805",
+	"phone": "02-469-1071",
+	"place_name": "정참치",
+	"place_url": "http://place.map.kakao.com/23279805",
+	"road_address_name": "서울 성동구 성수일로8길 39",
+	"x": "127.05480051538711",
+	"y": "37.545782332735385"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 284-22",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 뷔페 > 한식뷔페",
+	"distance": "",
+	"id": "163924822",
+	"phone": "02-468-4111",
+	"place_name": "또와",
+	"place_url": "http://place.map.kakao.com/163924822",
+	"road_address_name": "서울 성동구 성수일로12길 20",
+	"x": "127.053265515989",
+	"y": "37.548166177061"
+}
+,{
+	"address_name": "서울 성동구 도선동 152-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1294029566",
+	"phone": "02-2292-3399",
+	"place_name": "고깃집왕고을",
+	"place_url": "http://place.map.kakao.com/1294029566",
+	"road_address_name": "서울 성동구 왕십리로24길 10-2",
+	"x": "127.03411396744627",
+	"y": "37.56316315970696"
+}
+,{
+	"address_name": "서울 성북구 동선동1가 33",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "27478105",
+	"phone": "",
+	"place_name": "소한마리 정육식당",
+	"place_url": "http://place.map.kakao.com/27478105",
+	"road_address_name": "서울 성북구 동소문로20길 29-16",
+	"x": "127.017604629958",
+	"y": "37.5912940158081"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 13-107",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "21238172",
+	"phone": "02-3409-2891",
+	"place_name": "풍년정육점식당",
+	"place_url": "http://place.map.kakao.com/21238172",
+	"road_address_name": "서울 성동구 상원10길 6",
+	"x": "127.048683074862",
+	"y": "37.5491403327512"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 72-15",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 장어",
+	"distance": "",
+	"id": "27171617",
+	"phone": "02-461-7770",
+	"place_name": "고흥만",
+	"place_url": "http://place.map.kakao.com/27171617",
+	"road_address_name": "서울 성동구 뚝섬로3길 9",
+	"x": "127.04936124606267",
+	"y": "37.54104457390413"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 13-106",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 술집 > 호프,요리주점",
+	"distance": "",
+	"id": "444869253",
+	"phone": "02-499-7696",
+	"place_name": "제주올레 2호점",
+	"place_url": "http://place.map.kakao.com/444869253",
+	"road_address_name": "서울 성동구 상원10길 4-1",
+	"x": "127.048542714377",
+	"y": "37.5490827266312"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 14-31",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "20493438",
+	"phone": "02-499-3751",
+	"place_name": "시골집동태탕 뚝섬역점",
+	"place_url": "http://place.map.kakao.com/20493438",
+	"road_address_name": "서울 성동구 상원4길 6",
+	"x": "127.048998706699",
+	"y": "37.5472661249678"
+}
+,{
+	"address_name": "서울 성동구 도선동 81",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "16648129",
+	"phone": "02-2282-5264",
+	"place_name": "담쟁이",
+	"place_url": "http://place.map.kakao.com/16648129",
+	"road_address_name": "서울 성동구 왕십리로20길 11-1",
+	"x": "127.03516537656031",
+	"y": "37.56299346389712"
+}
+,{
+	"address_name": "서울 광진구 화양동 6-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "13094221",
+	"phone": "02-468-9561",
+	"place_name": "남해해물아구찜",
+	"place_url": "http://place.map.kakao.com/13094221",
+	"road_address_name": "서울 광진구 아차산로 241",
+	"x": "127.070148950395",
+	"y": "37.5405087720486"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 뷔페 > 한식뷔페",
+	"distance": "",
+	"id": "423824028",
+	"phone": "02-499-8326",
+	"place_name": "그린한식뷔페",
+	"place_url": "http://place.map.kakao.com/423824028",
+	"road_address_name": "서울 성동구 아차산로7길 28",
+	"x": "127.055341418677",
+	"y": "37.54731918459"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-211",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "17295655",
+	"phone": "02-462-1120",
+	"place_name": "성수낙지",
+	"place_url": "http://place.map.kakao.com/17295655",
+	"road_address_name": "서울 성동구 성수일로12길 34",
+	"x": "127.05444874995234",
+	"y": "37.54755566126121"
+}
+,{
+	"address_name": "서울 성동구 금호동4가 1458",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "441457962",
+	"phone": "02-2282-1102",
+	"place_name": "신선손칼국수",
+	"place_url": "http://place.map.kakao.com/441457962",
+	"road_address_name": "서울 성동구 장터2길 4",
+	"x": "127.01701508816134",
+	"y": "37.54815444008972"
+}
+,{
+	"address_name": "서울 성동구 도선동 253-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "15587217",
+	"phone": "02-2293-9001",
+	"place_name": "유진참치",
+	"place_url": "http://place.map.kakao.com/15587217",
+	"road_address_name": "서울 성동구 왕십리로24길 5",
+	"x": "127.033733591874",
+	"y": "37.5629992876501"
+}
+,{
+	"address_name": "서울 성동구 홍익동 548-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식",
+	"distance": "",
+	"id": "1307327740",
+	"phone": "02-6348-2159",
+	"place_name": "쿄다이키친",
+	"place_url": "http://place.map.kakao.com/1307327740",
+	"road_address_name": "서울 성동구 왕십리로 410",
+	"x": "127.029804679734",
+	"y": "37.5651663399415"
+}
+,{
+	"address_name": "서울 성동구 송정동 96-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "24752289",
+	"phone": "02-499-3737",
+	"place_name": "부산밀면해주순대국",
+	"place_url": "http://place.map.kakao.com/24752289",
+	"road_address_name": "서울 성동구 동일로 281",
+	"x": "127.071911489197",
+	"y": "37.5566355852619"
+}
+,{
+	"address_name": "서울 성동구 행당동 375-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "10973048",
+	"phone": "02-2296-7887",
+	"place_name": "황금가든",
+	"place_url": "http://place.map.kakao.com/10973048",
+	"road_address_name": "서울 성동구 행당로8길 8-1",
+	"x": "127.03051228358709",
+	"y": "37.557277932826906"
+}
+,{
+	"address_name": "서울 성동구 마장동 769-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "5800957",
+	"phone": "02-2299-8592",
+	"place_name": "화로구이 마장점",
+	"place_url": "http://place.map.kakao.com/5800957",
+	"road_address_name": "서울 성동구 마장로 315",
+	"x": "127.043954450244",
+	"y": "37.5673171021672"
+}
+,{
+	"address_name": "서울 성동구 도선동 144",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리 > 홍콩반점0410",
+	"distance": "",
+	"id": "27399254",
+	"phone": "02-2294-2329",
+	"place_name": "홍콩반점0410 왕십리역점",
+	"place_url": "http://place.map.kakao.com/27399254",
+	"road_address_name": "서울 성동구 무학로2길 43",
+	"x": "127.034453370613",
+	"y": "37.5628332964506"
+}
+,{
+	"address_name": "서울 성동구 행당동 155-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리",
+	"distance": "",
+	"id": "1622778013",
+	"phone": "",
+	"place_name": "홍수계찜닭 한양대엔터식스점",
+	"place_url": "http://place.map.kakao.com/1622778013",
+	"road_address_name": "서울 성동구 왕십리로 241",
+	"x": "127.040150292412",
+	"y": "37.5571480081387"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 708-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "16081889",
+	"phone": "02-499-7332",
+	"place_name": "행복한고기집",
+	"place_url": "http://place.map.kakao.com/16081889",
+	"road_address_name": "서울 성동구 상원10다길 26",
+	"x": "127.048742849401",
+	"y": "37.550567489583"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 339-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕 > 한촌설렁탕",
+	"distance": "",
+	"id": "17183123",
+	"phone": "02-461-9397",
+	"place_name": "한촌설렁탕 성수뚝도점",
+	"place_url": "http://place.map.kakao.com/17183123",
+	"road_address_name": "서울 성동구 뚝섬로 389",
+	"x": "127.053944838381",
+	"y": "37.5392270542242"
+}
+,{
+	"address_name": "서울 성동구 마장동 474-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "23641370",
+	"phone": "02-2292-2920",
+	"place_name": "한우와바다",
+	"place_url": "http://place.map.kakao.com/23641370",
+	"road_address_name": "서울 성동구 고산자로 349",
+	"x": "127.037594835166",
+	"y": "37.5707719134195"
+}
+,{
+	"address_name": "서울 성동구 마장동 509-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "18722121",
+	"phone": "02-2291-0292",
+	"place_name": "한우마을",
+	"place_url": "http://place.map.kakao.com/18722121",
+	"road_address_name": "서울 성동구 고산자로24길 11",
+	"x": "127.038771688492",
+	"y": "37.5700183007106"
+}
+,{
+	"address_name": "서울 성동구 사근동 177-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "15737782",
+	"phone": "02-2293-5238",
+	"place_name": "한양촌",
+	"place_url": "http://place.map.kakao.com/15737782",
+	"road_address_name": "서울 성동구 사근동8길 7",
+	"x": "127.046856811715",
+	"y": "37.5603062348042"
+}
+,{
+	"address_name": "서울 강남구 역삼동 701",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "13279357",
+	"phone": "02-560-2020",
+	"place_name": "한양정",
+	"place_url": "http://place.map.kakao.com/13279357",
+	"road_address_name": "서울 강남구 언주로 508",
+	"x": "127.042908473087",
+	"y": "37.5039699361589"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 309-147",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 복어",
+	"distance": "",
+	"id": "16056122",
+	"phone": "02-497-5550",
+	"place_name": "한세희복집",
+	"place_url": "http://place.map.kakao.com/16056122",
+	"road_address_name": "서울 성동구 성수이로7가길 6",
+	"x": "127.05510458132544",
+	"y": "37.54072037658705"
+}
+,{
+	"address_name": "서울 성동구 마장동 465-33",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "8635052",
+	"phone": "02-2299-1063",
+	"place_name": "한국집식당",
+	"place_url": "http://place.map.kakao.com/8635052",
+	"road_address_name": "서울 성동구 청계천로10가길 84",
+	"x": "127.03666698414",
+	"y": "37.5715074173273"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 308-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골",
+	"distance": "",
+	"id": "21526173",
+	"phone": "",
+	"place_name": "탕가네 김치찌개",
+	"place_url": "http://place.map.kakao.com/21526173",
+	"road_address_name": "서울 성동구 성수일로4길 25",
+	"x": "127.051865169847",
+	"y": "37.5425040211269"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 656-603",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "14835759",
+	"phone": "02-468-3800",
+	"place_name": "청정옥",
+	"place_url": "http://place.map.kakao.com/14835759",
+	"road_address_name": "서울 성동구 상원길 19",
+	"x": "127.04877147963163",
+	"y": "37.545876878706586"
+}
+,{
+	"address_name": "서울 성동구 행당동 192-29",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브 > 채선당",
+	"distance": "",
+	"id": "8102292",
+	"phone": "02-2298-1917",
+	"place_name": "채선당 성동구청점",
+	"place_url": "http://place.map.kakao.com/8102292",
+	"road_address_name": "서울 성동구 고산자로 284",
+	"x": "127.036713635238",
+	"y": "37.5650778979977"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 700-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "9426201",
+	"phone": "02-498-5752",
+	"place_name": "참숯나라갈비마을",
+	"place_url": "http://place.map.kakao.com/9426201",
+	"road_address_name": "서울 성동구 둘레15길 11",
+	"x": "127.055512738576",
+	"y": "37.5357124264684"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 300-40",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "13105375",
+	"phone": "02-2205-2477",
+	"place_name": "차이나플레인 성수점",
+	"place_url": "http://place.map.kakao.com/13105375",
+	"road_address_name": "서울 성동구 아차산로 113",
+	"x": "127.056818429436",
+	"y": "37.5446785561199"
+}
+,{
+	"address_name": "서울 성동구 행당동 3-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "14606389",
+	"phone": "02-2281-3228",
+	"place_name": "짚신매운갈비찜 한양대점",
+	"place_url": "http://place.map.kakao.com/14606389",
+	"road_address_name": "서울 성동구 마조로7길 9-1",
+	"x": "127.04009334490344",
+	"y": "37.56070146977969"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 339-160",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "1441478616",
+	"phone": "02-466-3392",
+	"place_name": "진짜배기명태촌 성수점",
+	"place_url": "http://place.map.kakao.com/1441478616",
+	"road_address_name": "서울 성동구 뚝섬로 385-32",
+	"x": "127.05442133032975",
+	"y": "37.53941334259752"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 13-157",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "16379177",
+	"phone": "02-465-7487",
+	"place_name": "죽변항",
+	"place_url": "http://place.map.kakao.com/16379177",
+	"road_address_name": "서울 성동구 상원길 40",
+	"x": "127.049003369974",
+	"y": "37.5474751547531"
+}
+,{
+	"address_name": "서울 성동구 도선동 68",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 감자탕 > 조마루",
+	"distance": "",
+	"id": "9401179",
+	"phone": "02-2294-1522",
+	"place_name": "조마루 왕십리점",
+	"place_url": "http://place.map.kakao.com/9401179",
+	"road_address_name": "서울 성동구 무학로2길 46",
+	"x": "127.03455732057715",
+	"y": "37.5624440355812"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-18",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "27171509",
+	"phone": "02-467-1136",
+	"place_name": "조계현칼국수",
+	"place_url": "http://place.map.kakao.com/27171509",
+	"road_address_name": "",
+	"x": "127.05378256088645",
+	"y": "37.54801727791229"
+}
+,{
+	"address_name": "서울 성동구 옥수동 218-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "9392434",
+	"phone": "02-2282-0220",
+	"place_name": "전주영양돌솥밥",
+	"place_url": "http://place.map.kakao.com/9392434",
+	"road_address_name": "서울 성동구 한림말길 18",
+	"x": "127.013075743006",
+	"y": "37.5407343116085"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 176-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "1365337310",
+	"phone": "02-464-7204",
+	"place_name": "장수숯불갈비",
+	"place_url": "http://place.map.kakao.com/1365337310",
+	"road_address_name": "서울 성동구 성덕정길 38",
+	"x": "127.047751898511",
+	"y": "37.5387494877967"
+}
+,{
+	"address_name": "서울 성동구 옥수동 244-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16875232",
+	"phone": "02-2299-0224",
+	"place_name": "장군숯불갈비",
+	"place_url": "http://place.map.kakao.com/16875232",
+	"road_address_name": "서울 성동구 독서당로 194-1",
+	"x": "127.01277397539549",
+	"y": "37.5427615940414"
+}
+,{
+	"address_name": "서울 성동구 행당동 265-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "12435138",
+	"phone": "02-466-2090",
+	"place_name": "일품백송칼국수&설렁탕",
+	"place_url": "http://place.map.kakao.com/12435138",
+	"road_address_name": "서울 성동구 고산자로12길 1-1",
+	"x": "127.034918484777",
+	"y": "37.5602491013571"
+}
+,{
+	"address_name": "서울 성동구 행당동 168-151",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리",
+	"distance": "",
+	"id": "1024137411",
+	"phone": "",
+	"place_name": "일오닭갈비 왕십리역사점",
+	"place_url": "http://place.map.kakao.com/1024137411",
+	"road_address_name": "서울 성동구 왕십리광장로 17",
+	"x": "127.038396004898",
+	"y": "37.5614409413851"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 273-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "2013967283",
+	"phone": "02-464-2270",
+	"place_name": "이북집찹쌀순대 성수점",
+	"place_url": "http://place.map.kakao.com/2013967283",
+	"road_address_name": "서울 성동구 성수이로20길 10",
+	"x": "127.057641097077",
+	"y": "37.5432293505617"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 273-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "2013967283",
+	"phone": "02-464-2270",
+	"place_name": "이북집찹쌀순대 성수점",
+	"place_url": "http://place.map.kakao.com/2013967283",
+	"road_address_name": "서울 성동구 성수이로20길 10",
+	"x": "127.057641097077",
+	"y": "37.5432293505617"
+}
+,{
+	"address_name": "서울 성동구 행당동 6-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "10674476",
+	"phone": "02-2298-8878",
+	"place_name": "이가갈비",
+	"place_url": "http://place.map.kakao.com/10674476",
+	"road_address_name": "서울 성동구 마조로 25",
+	"x": "127.04099954682415",
+	"y": "37.56000748110922"
+}
+,{
+	"address_name": "서울 성동구 금호동1가 128-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "24007286",
+	"phone": "02-2233-0326",
+	"place_name": "육백더육백",
+	"place_url": "http://place.map.kakao.com/24007286",
+	"road_address_name": "서울 성동구 행당로 35",
+	"x": "127.023481346451",
+	"y": "37.5558874993867"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-175",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "15308978",
+	"phone": "02-468-0110",
+	"place_name": "유향소",
+	"place_url": "http://place.map.kakao.com/15308978",
+	"road_address_name": "서울 성동구 광나루로 248-1",
+	"x": "127.057238032721",
+	"y": "37.5488445721903"
+}
+,{
+	"address_name": "서울 성동구 홍익동 357",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "8038298",
+	"phone": "02-2293-8866",
+	"place_name": "유래회관",
+	"place_url": "http://place.map.kakao.com/8038298",
+	"road_address_name": "서울 성동구 마장로 196",
+	"x": "127.031566427085",
+	"y": "37.5664489003844"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 333-15",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈 > 원할머니보쌈족발",
+	"distance": "",
+	"id": "19807974",
+	"phone": "02-2263-3456",
+	"place_name": "원할머니보쌈족발 성수점",
+	"place_url": "http://place.map.kakao.com/19807974",
+	"road_address_name": "서울 성동구 성수이로7길 7",
+	"x": "127.05432080087",
+	"y": "37.5396521538767"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 333-15",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈 > 원할머니보쌈족발",
+	"distance": "",
+	"id": "19807974",
+	"phone": "02-2263-3456",
+	"place_name": "원할머니보쌈족발 성수점",
+	"place_url": "http://place.map.kakao.com/19807974",
+	"road_address_name": "서울 성동구 성수이로7길 7",
+	"x": "127.05432080087",
+	"y": "37.5396521538767"
+}
+,{
+	"address_name": "서울 성동구 홍익동 123-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕",
+	"distance": "",
+	"id": "19299854",
+	"phone": "02-2298-0008",
+	"place_name": "원조설렁탕",
+	"place_url": "http://place.map.kakao.com/19299854",
+	"road_address_name": "서울 성동구 왕십리로20길 43",
+	"x": "127.035640922971",
+	"y": "37.56572694388"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 320-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1017256235",
+	"phone": "02-497-7777",
+	"place_name": "우정돈식당",
+	"place_url": "http://place.map.kakao.com/1017256235",
+	"road_address_name": "서울 성동구 성수이로 75",
+	"x": "127.055929146035",
+	"y": "37.5418246145697"
+}
+,{
+	"address_name": "서울 성동구 행당동 14-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "12010910",
+	"phone": "02-2292-9253",
+	"place_name": "우리돈가",
+	"place_url": "http://place.map.kakao.com/12010910",
+	"road_address_name": "서울 성동구 사근동길 4",
+	"x": "127.041618625623",
+	"y": "37.5599766306138"
+}
+,{
+	"address_name": "서울 성동구 홍익동 405",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 곱창,막창",
+	"distance": "",
+	"id": "8166832",
+	"phone": "02-2297-8860",
+	"place_name": "왕십리원조황소곱창",
+	"place_url": "http://place.map.kakao.com/8166832",
+	"road_address_name": "서울 성동구 무학로 24",
+	"x": "127.03033487079956",
+	"y": "37.566327768995336"
+}
+,{
+	"address_name": "서울 성동구 행당동 317-1329",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 오리",
+	"distance": "",
+	"id": "12702135",
+	"phone": "02-2282-2838",
+	"place_name": "왕십리오리사냥",
+	"place_url": "http://place.map.kakao.com/12702135",
+	"road_address_name": "서울 성동구 행당로17길 7",
+	"x": "127.033464744557",
+	"y": "37.559128682138"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 656-953",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 분식",
+	"distance": "",
+	"id": "22219215",
+	"phone": "02-468-8848",
+	"place_name": "왕돈까스&왕냉면 뚝섬점",
+	"place_url": "http://place.map.kakao.com/22219215",
+	"road_address_name": "서울 성동구 왕십리로 107",
+	"x": "127.04441335861",
+	"y": "37.5471562148058"
+}
+,{
+	"address_name": "서울 성동구 행당동 22-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "27091807",
+	"phone": "02-2296-3632",
+	"place_name": "옵션",
+	"place_url": "http://place.map.kakao.com/27091807",
+	"road_address_name": "서울 성동구 마조로 16",
+	"x": "127.041188082664",
+	"y": "37.5591442604074"
+}
+,{
+	"address_name": "서울 성동구 마장동 767-36",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 게,대게",
+	"distance": "",
+	"id": "17358375",
+	"phone": "02-2294-6565",
+	"place_name": "연평도산꽃게해물탕",
+	"place_url": "http://place.map.kakao.com/17358375",
+	"road_address_name": "서울 성동구 마장로 323",
+	"x": "127.044869251968",
+	"y": "37.5676771563279"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-306",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식",
+	"distance": "",
+	"id": "725467666",
+	"phone": "02-3409-0633",
+	"place_name": "알레프",
+	"place_url": "http://place.map.kakao.com/725467666",
+	"road_address_name": "서울 성동구 성수이로 121",
+	"x": "127.057317252972",
+	"y": "37.5458964658073"
+}
+,{
+	"address_name": "서울 성동구 용답동 14-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 신마포갈매기",
+	"distance": "",
+	"id": "19604477",
+	"phone": "02-2212-2675",
+	"place_name": "신마포갈매기 용답점",
+	"place_url": "http://place.map.kakao.com/19604477",
+	"road_address_name": "서울 성동구 용답중앙15길 12",
+	"x": "127.053768301548",
+	"y": "37.5643974176121"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 277-117",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "11117578",
+	"phone": "02-461-1559",
+	"place_name": "시골가마솥삼겹살 성수점",
+	"place_url": "http://place.map.kakao.com/11117578",
+	"road_address_name": "서울 성동구 성수이로 108",
+	"x": "127.057388644129",
+	"y": "37.5445521404877"
+}
+,{
+	"address_name": "서울 성동구 행당동 286-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "21301775",
+	"phone": "02-2295-9524",
+	"place_name": "수현회집",
+	"place_url": "http://place.map.kakao.com/21301775",
+	"road_address_name": "서울 성동구 무학봉28길 12",
+	"x": "127.033203386557",
+	"y": "37.5618713902866"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 299-241",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "9878659",
+	"phone": "02-464-5515",
+	"place_name": "성수숯불갈비",
+	"place_url": "http://place.map.kakao.com/9878659",
+	"road_address_name": "서울 성동구 아차산로7길 45",
+	"x": "127.055744491605",
+	"y": "37.5491336062524"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 299-234",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "1774035310",
+	"phone": "02-497-4987",
+	"place_name": "성수동양갈비",
+	"place_url": "http://place.map.kakao.com/1774035310",
+	"road_address_name": "서울 성동구 성수일로12길 33",
+	"x": "127.05462878503116",
+	"y": "37.547704242898625"
+}
+,{
+	"address_name": "서울 성동구 하왕십리동 946-39",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "9112049",
+	"phone": "02-2298-5111",
+	"place_name": "산수골",
+	"place_url": "http://place.map.kakao.com/9112049",
+	"road_address_name": "서울 성동구 왕십리로31가길 31",
+	"x": "127.029781508407",
+	"y": "37.5638256633995"
+}
+,{
+	"address_name": "서울 성동구 송정동 79-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "12561903",
+	"phone": "02-466-9253",
+	"place_name": "본토고기구이",
+	"place_url": "http://place.map.kakao.com/12561903",
+	"road_address_name": "서울 성동구 동일로 185",
+	"x": "127.067418080201",
+	"y": "37.5487022469038"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 279-50",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕",
+	"distance": "",
+	"id": "17672526",
+	"phone": "02-461-1666",
+	"place_name": "본가큰댁설렁탕",
+	"place_url": "http://place.map.kakao.com/17672526",
+	"road_address_name": "서울 성동구 동일로 143",
+	"x": "127.06530582452",
+	"y": "37.5453841545102"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 300-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식",
+	"distance": "",
+	"id": "20727268",
+	"phone": "02-461-5167",
+	"place_name": "미도",
+	"place_url": "http://place.map.kakao.com/20727268",
+	"road_address_name": "서울 성동구 아차산로 113",
+	"x": "127.056981381034",
+	"y": "37.5446856855937"
+}
+,{
+	"address_name": "서울 성동구 하왕십리동 966-14",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 장어",
+	"distance": "",
+	"id": "24019212",
+	"phone": "02-2296-6404",
+	"place_name": "무한장어 왕십리점",
+	"place_url": "http://place.map.kakao.com/24019212",
+	"road_address_name": "서울 성동구 왕십리로 327",
+	"x": "127.033239835704",
+	"y": "37.5623903540625"
+}
+,{
+	"address_name": "서울 성동구 마장동 761-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "8347193",
+	"phone": "02-2299-3365",
+	"place_name": "몽실이네토종한우 직영1호점",
+	"place_url": "http://place.map.kakao.com/8347193",
+	"road_address_name": "서울 성동구 마장로35길 70",
+	"x": "127.041597445893",
+	"y": "37.5707381351092"
+}
+,{
+	"address_name": "서울 성동구 행당동 267-23",
+	"category_group_code": "",
+	"category_group_name": "",
+	"category_name": "가정,생활 > 미용 > 체형관리 > 약손명가",
+	"distance": "",
+	"id": "14080255",
+	"phone": "02-2298-6696",
+	"place_name": "약손명가 왕십리점",
+	"place_url": "http://place.map.kakao.com/14080255",
+	"road_address_name": "서울 성동구 고산자로 234",
+	"x": "127.03526721182688",
+	"y": "37.56052650473421"
+}
+,{
+	"address_name": "서울 성동구 행당동 317-72",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 분식",
+	"distance": "",
+	"id": "15831022",
+	"phone": "02-2292-6882",
+	"place_name": "만두전빵",
+	"place_url": "http://place.map.kakao.com/15831022",
+	"road_address_name": "서울 성동구 행당로15길 2-1",
+	"x": "127.031916111211",
+	"y": "37.5583182135214"
+}
+,{
+	"address_name": "서울 성동구 금호동2가 464",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "8967562",
+	"phone": "02-2234-3043",
+	"place_name": "마포숯불갈비",
+	"place_url": "http://place.map.kakao.com/8967562",
+	"road_address_name": "서울 성동구 무수막길 89",
+	"x": "127.02012287181239",
+	"y": "37.55365094215697"
+}
+,{
+	"address_name": "서울 성동구 행당동 322-21",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "12153988",
+	"phone": "02-2282-6663",
+	"place_name": "마포갈비생등심",
+	"place_url": "http://place.map.kakao.com/12153988",
+	"road_address_name": "서울 성동구 행당로8길 9",
+	"x": "127.030747824288",
+	"y": "37.5576049337448"
+}
+,{
+	"address_name": "서울 성동구 마장동 439-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "8603223",
+	"phone": "02-2281-9292",
+	"place_name": "마장동한우촌",
+	"place_url": "http://place.map.kakao.com/8603223",
+	"road_address_name": "서울 성동구 마장로35길 68",
+	"x": "127.04129402963",
+	"y": "37.5706481421038"
+}
+,{
+	"address_name": "서울 성동구 마장동 510-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "25548806",
+	"phone": "02-2292-0092",
+	"place_name": "마장골한우숯불구이",
+	"place_url": "http://place.map.kakao.com/25548806",
+	"road_address_name": "서울 성동구 마장로31길 40",
+	"x": "127.038409339288",
+	"y": "37.5697769523933"
+}
+,{
+	"address_name": "서울 성동구 마장동 509-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "20226791",
+	"phone": "02-2294-5977",
+	"place_name": "자연축산 고기익는마을",
+	"place_url": "http://place.map.kakao.com/20226791",
+	"road_address_name": "서울 성동구 고산자로24길 13",
+	"x": "127.0390976403101",
+	"y": "37.569920885713096"
+}
+,{
+	"address_name": "서울 성동구 옥수동 561",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점",
+	"distance": "",
+	"id": "1991062345",
+	"phone": "",
+	"place_name": "락앤웍 옥수점",
+	"place_url": "http://place.map.kakao.com/1991062345",
+	"road_address_name": "서울 성동구 독서당로 223",
+	"x": "127.015190123084",
+	"y": "37.5442695810566"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 13-169",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "24006514",
+	"phone": "02-6968-0808",
+	"place_name": "라이홍",
+	"place_url": "http://place.map.kakao.com/24006514",
+	"road_address_name": "서울 성동구 성수일로 77",
+	"x": "127.05028863132303",
+	"y": "37.54710160087362"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 289-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "409099561",
+	"phone": "02-466-1616",
+	"place_name": "라온석갈비 성수본점",
+	"place_url": "http://place.map.kakao.com/409099561",
+	"road_address_name": "서울 성동구 성수이로 119",
+	"x": "127.057140598607",
+	"y": "37.5457307676065"
+}
+,{
+	"address_name": "서울 성동구 사근동 181-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 감자탕",
+	"distance": "",
+	"id": "19337925",
+	"phone": "02-2282-2005",
+	"place_name": "따봉감자탕",
+	"place_url": "http://place.map.kakao.com/19337925",
+	"road_address_name": "서울 성동구 사근동10길 4",
+	"x": "127.048061401279",
+	"y": "37.5608463486664"
+}
+,{
+	"address_name": "서울 성동구 마장동 777-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "12077409",
+	"phone": "02-2265-2402",
+	"place_name": "들창코 마장본점",
+	"place_url": "http://place.map.kakao.com/12077409",
+	"road_address_name": "서울 성동구 마장로 326",
+	"x": "127.045421494578",
+	"y": "37.5674571021975"
+}
+,{
+	"address_name": "서울 성동구 용답동 57-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 불고기,두루치기",
+	"distance": "",
+	"id": "20688105",
+	"phone": "02-2248-6708",
+	"place_name": "통돼지두루치기&김치찌개전문점",
+	"place_url": "http://place.map.kakao.com/20688105",
+	"road_address_name": "서울 성동구 용답중앙15길 5-1",
+	"x": "127.053147878879",
+	"y": "37.5641742514798"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 315-70",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "8272583",
+	"phone": "02-464-6365",
+	"place_name": "돼지네",
+	"place_url": "http://place.map.kakao.com/8272583",
+	"road_address_name": "서울 성동구 연무장7길 12",
+	"x": "127.054880343691",
+	"y": "37.5435370056844"
+}
+,{
+	"address_name": "서울 성동구 용답동 5-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 일식집",
+	"distance": "",
+	"id": "10279133",
+	"phone": "02-2245-9616",
+	"place_name": "동호일식",
+	"place_url": "http://place.map.kakao.com/10279133",
+	"road_address_name": "서울 성동구 천호대로 328",
+	"x": "127.05590950845",
+	"y": "37.5640107966734"
+}
+,{
+	"address_name": "서울 성동구 용답동 14-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "1328608791",
+	"phone": "02-2246-8999",
+	"place_name": "동수원갈비",
+	"place_url": "http://place.map.kakao.com/1328608791",
+	"road_address_name": "서울 성동구 용답29길 21",
+	"x": "127.05396521741423",
+	"y": "37.564356782940365"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 14-39",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "16850172",
+	"phone": "02-498-9468",
+	"place_name": "돈벼락맛집",
+	"place_url": "http://place.map.kakao.com/16850172",
+	"road_address_name": "서울 성동구 상원길 24",
+	"x": "127.049056815875",
+	"y": "37.546145258213"
+}
+,{
+	"address_name": "서울 성동구 도선동 16-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1167534917",
+	"phone": "02-2295-7456",
+	"place_name": "돈구어",
+	"place_url": "http://place.map.kakao.com/1167534917",
+	"road_address_name": "서울 성동구 왕십리로20길 18",
+	"x": "127.035589984822",
+	"y": "37.5633411212822"
+}
+,{
+	"address_name": "서울 성동구 행당동 1-90",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 피자",
+	"distance": "",
+	"id": "26631262",
+	"phone": "02-2292-2782",
+	"place_name": "델오르노",
+	"place_url": "http://place.map.kakao.com/26631262",
+	"road_address_name": "서울 성동구 마조로9길 6-3",
+	"x": "127.040836187863",
+	"y": "37.5613860628012"
+}
+,{
+	"address_name": "서울 성동구 성수동1가 685-696",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "14600232",
+	"phone": "02-6409-5600",
+	"place_name": "더 이탈리안",
+	"place_url": "http://place.map.kakao.com/14600232",
+	"road_address_name": "서울 성동구 서울숲2길 32-14",
+	"x": "127.042461620254",
+	"y": "37.5456648784894"
+}
+,{
+	"address_name": "서울 성동구 마장동 774-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "10250194",
+	"phone": "02-2293-2480",
+	"place_name": "대성장",
+	"place_url": "http://place.map.kakao.com/10250194",
+	"road_address_name": "서울 성동구 마장로 284",
+	"x": "127.041263933905",
+	"y": "37.5653394861674"
+}
+,{
+	"address_name": "서울 성동구 홍익동 431",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "7817321",
+	"phone": "02-2292-9772",
+	"place_name": "대도식당 왕십리본점",
+	"place_url": "http://place.map.kakao.com/7817321",
+	"road_address_name": "서울 성동구 무학로12길 3",
+	"x": "127.030652190191",
+	"y": "37.5672744535012"
+}
+,{
+	"address_name": "서울 성동구 도선동 211",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+	"distance": "",
+	"id": "8533762",
+	"phone": "02-2295-4000",
+	"place_name": "달인의족발 본점",
+	"place_url": "http://place.map.kakao.com/8533762",
+	"road_address_name": "서울 성동구 무학로2길 37",
+	"x": "127.033778963411",
+	"y": "37.5632155138215"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 325-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "215193485",
+	"phone": "02-499-5425",
+	"place_name": "놋",
+	"place_url": "http://place.map.kakao.com/215193485",
+	"road_address_name": "서울 성동구 성수이로 51",
+	"x": "127.0551799310494",
+	"y": "37.54009414651495"
+}
+,{
+	"address_name": "서울 중구 을지로6가 18-103",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골 > 놀부부대찌개",
+	"distance": "",
+	"id": "26414445",
+	"phone": "02-2264-1669",
+	"place_name": "놀부부대찌개&철판구이 을지로6가2호점",
+	"place_url": "http://place.map.kakao.com/26414445",
+	"road_address_name": "서울 중구 을지로43길 34",
+	"x": "127.007615540347",
+	"y": "37.5675989415442"
+}
+,{
+	"address_name": "서울 성동구 도선동 253-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 술집",
+	"distance": "",
+	"id": "1810993012",
+	"phone": "",
+	"place_name": "노리터",
+	"place_url": "http://place.map.kakao.com/1810993012",
+	"road_address_name": "서울 성동구 무학로2길 38",
+	"x": "127.033681557712",
+	"y": "37.5630677782357"
+}
+,{
+	"address_name": "서울 성동구 용답동 233-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 곰탕",
+	"distance": "",
+	"id": "19508146",
+	"phone": "02-3394-8266",
+	"place_name": "나주곰탕 본점",
+	"place_url": "http://place.map.kakao.com/19508146",
+	"road_address_name": "서울 성동구 천호대로 420",
+	"x": "127.06560349017536",
+	"y": "37.560945123226645"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 314-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "2061952827",
+	"phone": "02-468-1110",
+	"place_name": "기왕생고기",
+	"place_url": "http://place.map.kakao.com/2061952827",
+	"road_address_name": "서울 성동구 아차산로 92",
+	"x": "127.054243025154",
+	"y": "37.5447482431777"
+}
+,{
+	"address_name": "서울 성동구 성수동2가 279-50",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 뷔페 > 한식뷔페",
+	"distance": "",
+	"id": "17005640",
+	"phone": "02-497-4932",
+	"place_name": "그린웰빙한식부페",
+	"place_url": "http://place.map.kakao.com/17005640",
+	"road_address_name": "서울 성동구 동일로 143",
+	"x": "127.065342072851",
+	"y": "37.545427382411"
+}
+,{
+	"address_name": "서울 성동구 마장동 478-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "25503841",
+	"phone": "02-2294-3665",
+	"place_name": "궁중한우",
+	"place_url": "http://place.map.kakao.com/25503841",
+	"road_address_name": "서울 성동구 마장로29길 40",
+	"x": "127.03684258184",
+	"y": "37.5694963411617"
+}
+,{
+	"address_name": "서울 성동구 행당동 1-50",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 곱창,막창",
+	"distance": "",
+	"id": "16039417",
+	"phone": "02-2292-4978",
+	"place_name": "곱창하우스",
+	"place_url": "http://place.map.kakao.com/16039417",
+	"road_address_name": "서울 성동구 마조로7길 12",
+	"x": "127.040097962981",
+	"y": "37.5608709457041"
+}
+,{
+	"address_name": "서울 성동구 금호동3가 405-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "8697587",
+	"phone": "02-2235-2540",
+	"place_name": "골목냉면",
+	"place_url": "http://place.map.kakao.com/8697587",
+	"road_address_name": "서울 성동구 독서당로 295-7",
+	"x": "127.021989822533",
+	"y": "37.5485572658737"
+}
+,{
+	"address_name": "서울 성동구 도선동 68",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "890840171",
+	"phone": "02-2294-1522",
+	"place_name": "고향산천",
+	"place_url": "http://place.map.kakao.com/890840171",
+	"road_address_name": "서울 성동구 무학로2길 46",
+	"x": "127.034557320577",
+	"y": "37.5624440355812"
+}
+
+]

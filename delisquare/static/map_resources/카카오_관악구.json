@@ -1,0 +1,1431 @@
+﻿[
+{
+	"address_name": "서울 관악구 신림동 1427-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "9281876",
+	"phone": "02-873-2280",
+	"place_name": "옛날농장",
+	"place_url": "http://place.map.kakao.com/9281876",
+	"road_address_name": "서울 관악구 봉천로 262",
+	"x": "126.93016242287",
+	"y": "37.4880885575893"
+}
+,{
+	"address_name": "서울 관악구 봉천동 861-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "10277585",
+	"phone": "02-889-2233",
+	"place_name": "진우리참치 별관",
+	"place_url": "http://place.map.kakao.com/10277585",
+	"road_address_name": "서울 관악구 봉천로 472",
+	"x": "126.952206297173",
+	"y": "37.4818897820639"
+}
+,{
+	"address_name": "서울 관악구 봉천동 858-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 아구",
+	"distance": "",
+	"id": "12058323",
+	"phone": "02-889-1700",
+	"place_name": "대호아구집",
+	"place_url": "http://place.map.kakao.com/12058323",
+	"road_address_name": "서울 관악구 남부순환로 1829-9",
+	"x": "126.953662755264",
+	"y": "37.481540770805"
+}
+,{
+	"address_name": "서울 관악구 신림동 96-25",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "16269222",
+	"phone": "02-874-4622",
+	"place_name": "청호 신림점",
+	"place_url": "http://place.map.kakao.com/16269222",
+	"road_address_name": "서울 관악구 서림길 24",
+	"x": "126.937825976044",
+	"y": "37.4749777548339"
+}
+,{
+	"address_name": "서울 관악구 신림동 110-54",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 곰탕",
+	"distance": "",
+	"id": "27451554",
+	"phone": "02-886-9353",
+	"place_name": "김영자나주곰탕 별관",
+	"place_url": "http://place.map.kakao.com/27451554",
+	"road_address_name": "서울 관악구 신림로28길 30",
+	"x": "126.935132916498",
+	"y": "37.4725507882168"
+}
+,{
+	"address_name": "서울 관악구 신림동 1432-76",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+	"distance": "",
+	"id": "8148101",
+	"phone": "02-885-4724",
+	"place_name": "할매보쌈",
+	"place_url": "http://place.map.kakao.com/8148101",
+	"road_address_name": "서울 관악구 신림로 351",
+	"x": "126.929242046502",
+	"y": "37.4856624965488"
+}
+,{
+	"address_name": "서울 관악구 봉천동 883-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "8608474",
+	"phone": "02-885-5398",
+	"place_name": "해태식당",
+	"place_url": "http://place.map.kakao.com/8608474",
+	"road_address_name": "서울 관악구 청룡1길 33",
+	"x": "126.948113891341",
+	"y": "37.4812393294076"
+}
+,{
+	"address_name": "서울 관악구 신림동 1432-111",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "25854137",
+	"phone": "02-871-9298",
+	"place_name": "불삼시대",
+	"place_url": "http://place.map.kakao.com/25854137",
+	"road_address_name": "서울 관악구 신림로65길 24",
+	"x": "126.928206868585",
+	"y": "37.4851140590855"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1595-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "27343732",
+	"phone": "02-882-8573",
+	"place_name": "도적숯불구이",
+	"place_url": "http://place.map.kakao.com/27343732",
+	"road_address_name": "서울 관악구 관악로 110-1",
+	"x": "126.9531658892578",
+	"y": "37.475135299367075"
+}
+,{
+	"address_name": "서울 관악구 신림동 503-38",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "21193222",
+	"phone": "02-852-7755",
+	"place_name": "목포산낙지철판해물",
+	"place_url": "http://place.map.kakao.com/21193222",
+	"road_address_name": "서울 관악구 조원로 125-1",
+	"x": "126.916298319171",
+	"y": "37.4853981493531"
+}
+,{
+	"address_name": "서울 관악구 신림동 1421-45",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "405584450",
+	"phone": "02-888-3949",
+	"place_name": "두둑한샤브칼국수 신림점",
+	"place_url": "http://place.map.kakao.com/405584450",
+	"road_address_name": "서울 관악구 신림로64길 17",
+	"x": "126.930720317654",
+	"y": "37.4851506989662"
+}
+,{
+	"address_name": "서울 관악구 봉천동 734-16",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "26364101",
+	"phone": "02-875-5120",
+	"place_name": "태능참숯불갈비",
+	"place_url": "http://place.map.kakao.com/26364101",
+	"road_address_name": "서울 관악구 봉천로7길 30",
+	"x": "126.926261058073",
+	"y": "37.4907892096607"
+}
+,{
+	"address_name": "서울 관악구 남현동 1061-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골 > 놀부부대찌개",
+	"distance": "",
+	"id": "19197533",
+	"phone": "02-582-9349",
+	"place_name": "놀부부대찌개 사당점",
+	"place_url": "http://place.map.kakao.com/19197533",
+	"road_address_name": "서울 관악구 남현1길 68-6",
+	"x": "126.98110660730512",
+	"y": "37.47560528856693"
+}
+,{
+	"address_name": "서울 관악구 보라매동 972-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해장국 > 양평해장국",
+	"distance": "",
+	"id": "16499383",
+	"phone": "02-875-2366",
+	"place_name": "양평해장국",
+	"place_url": "http://place.map.kakao.com/16499383",
+	"road_address_name": "서울 관악구 봉천로 229",
+	"x": "126.927424385768",
+	"y": "37.4898492782822"
+}
+,{
+	"address_name": "서울 관악구 신림동 1484-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 뷔페",
+	"distance": "",
+	"id": "10348389",
+	"phone": "02-855-5555",
+	"place_name": "런던부페",
+	"place_url": "http://place.map.kakao.com/10348389",
+	"road_address_name": "서울 관악구 남부순환로 1454",
+	"x": "126.912264589211",
+	"y": "37.4810847985837"
+}
+,{
+	"address_name": "서울 관악구 봉천동 19-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "12661709",
+	"phone": "02-878-8858",
+	"place_name": "청국장과보리밥 봉천점",
+	"place_url": "http://place.map.kakao.com/12661709",
+	"road_address_name": "서울 관악구 관악로24길 80",
+	"x": "126.95797465069525",
+	"y": "37.48607986216044"
+}
+,{
+	"address_name": "서울 관악구 신림동 1587-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "1041115061",
+	"phone": "02-855-7963",
+	"place_name": "신림할매순대국 신림역본점",
+	"place_url": "http://place.map.kakao.com/1041115061",
+	"road_address_name": "서울 관악구 관천로 43",
+	"x": "126.926408763596",
+	"y": "37.4831523586009"
+}
+,{
+	"address_name": "서울 관악구 신림동 1446-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 복어",
+	"distance": "",
+	"id": "9364854",
+	"phone": "02-875-7101",
+	"place_name": "장항복집",
+	"place_url": "http://place.map.kakao.com/9364854",
+	"road_address_name": "서울 관악구 봉천로 186",
+	"x": "126.92217344725",
+	"y": "37.4896260901225"
+}
+,{
+	"address_name": "서울 관악구 신림동 601-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+	"distance": "",
+	"id": "21230184",
+	"phone": "02-867-3100",
+	"place_name": "달인족발",
+	"place_url": "http://place.map.kakao.com/21230184",
+	"road_address_name": "서울 관악구 난우길 26-1",
+	"x": "126.918362592366",
+	"y": "37.4753191062909"
+}
+,{
+	"address_name": "서울 관악구 봉천동 15-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "20749337",
+	"phone": "02-883-7700",
+	"place_name": "광시생고기",
+	"place_url": "http://place.map.kakao.com/20749337",
+	"road_address_name": "서울 관악구 관악로30길 15",
+	"x": "126.958847247744",
+	"y": "37.486613566148"
+}
+,{
+	"address_name": "서울 관악구 남현동 1063-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 한정식",
+	"distance": "",
+	"id": "13070377",
+	"phone": "02-588-1488",
+	"place_name": "담양에초대 사당역점",
+	"place_url": "http://place.map.kakao.com/13070377",
+	"road_address_name": "서울 관악구 남현1길 38-10",
+	"x": "126.97924356069319",
+	"y": "37.47537251543976"
+}
+,{
+	"address_name": "서울 관악구 봉천동 876-19",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "11831379",
+	"phone": "02-878-7728",
+	"place_name": "갯바위",
+	"place_url": "http://place.map.kakao.com/11831379",
+	"road_address_name": "서울 관악구 남부순환로216길 13",
+	"x": "126.949131677548",
+	"y": "37.4808937845488"
+}
+,{
+	"address_name": "서울 관악구 남현동 1060-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 장어",
+	"distance": "",
+	"id": "1090467",
+	"phone": "02-582-0230",
+	"place_name": "장수촌풍천장어직판장",
+	"place_url": "http://place.map.kakao.com/1090467",
+	"road_address_name": "서울 관악구 남부순환로 2082-37",
+	"x": "126.98016812702",
+	"y": "37.4761412356107"
+}
+,{
+	"address_name": "서울 관악구 신림동 607-35",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "16072265",
+	"phone": "02-852-3636",
+	"place_name": "풍년집 난곡점",
+	"place_url": "http://place.map.kakao.com/16072265",
+	"road_address_name": "서울 관악구 난곡로 232",
+	"x": "126.917078736282",
+	"y": "37.4749397882246"
+}
+,{
+	"address_name": "서울 관악구 봉천동 14-52",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "11969695",
+	"phone": "02-888-0711",
+	"place_name": "표태룡의우성각",
+	"place_url": "http://place.map.kakao.com/11969695",
+	"road_address_name": "서울 관악구 관악로 268",
+	"x": "126.95827104887846",
+	"y": "37.48782792285023"
+}
+,{
+	"address_name": "서울 관악구 봉천동 945-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 한정식",
+	"distance": "",
+	"id": "434232475",
+	"phone": "02-884-8988",
+	"place_name": "정가 한정식",
+	"place_url": "http://place.map.kakao.com/434232475",
+	"road_address_name": "서울 관악구 남부순환로 1710",
+	"x": "126.939890867985",
+	"y": "37.4827419188134"
+}
+,{
+	"address_name": "서울 관악구 신림동 1432-136",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "27508852",
+	"phone": "02-878-0280",
+	"place_name": "오삼",
+	"place_url": "http://place.map.kakao.com/27508852",
+	"road_address_name": "서울 관악구 신림동5길 31",
+	"x": "126.927636259604",
+	"y": "37.4858921820228"
+}
+,{
+	"address_name": "서울 관악구 봉천동 852-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕",
+	"distance": "",
+	"id": "16709072",
+	"phone": "02-889-9327",
+	"place_name": "삼미옥",
+	"place_url": "http://place.map.kakao.com/16709072",
+	"road_address_name": "서울 관악구 남부순환로 1829-6",
+	"x": "126.953730712325",
+	"y": "37.4813461795175"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1665-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈 > 원할머니보쌈족발",
+	"distance": "",
+	"id": "8514618",
+	"phone": "02-873-0906",
+	"place_name": "원할머니보쌈족발 봉천점",
+	"place_url": "http://place.map.kakao.com/8514618",
+	"road_address_name": "서울 관악구 남부순환로 1855",
+	"x": "126.95614975422002",
+	"y": "37.48022264283603"
+}
+,{
+	"address_name": "서울 관악구 신림동 1655-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리",
+	"distance": "",
+	"id": "16530034",
+	"phone": "02-859-1313",
+	"place_name": "춘천날으는 닭갈비",
+	"place_url": "http://place.map.kakao.com/16530034",
+	"road_address_name": "서울 관악구 조원로 4",
+	"x": "126.902651289354",
+	"y": "37.4834811597578"
+}
+,{
+	"address_name": "서울 관악구 신림동 1422-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 굴,전복 > 굴마을",
+	"distance": "",
+	"id": "11722679",
+	"phone": "02-889-0916",
+	"place_name": "굴마을낙지촌 신림점",
+	"place_url": "http://place.map.kakao.com/11722679",
+	"road_address_name": "서울 관악구 남부순환로 1627",
+	"x": "126.931386651508",
+	"y": "37.484748337118"
+}
+,{
+	"address_name": "서울 관악구 신림동 10-518",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "10122642",
+	"phone": "02-886-9233",
+	"place_name": "강강술래 신림점",
+	"place_url": "http://place.map.kakao.com/10122642",
+	"road_address_name": "서울 관악구 남부순환로 1660",
+	"x": "126.935032063852",
+	"y": "37.4845810083297"
+}
+,{
+	"address_name": "서울 관악구 신림동 1644-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "1225629162",
+	"phone": "02-864-1004",
+	"place_name": "탐나종합어시장 구로디지털역점",
+	"place_url": "http://place.map.kakao.com/1225629162",
+	"road_address_name": "서울 관악구 조원로 7",
+	"x": "126.903297818883",
+	"y": "37.4836366641163"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1598-16",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "847807556",
+	"phone": "02-878-0233",
+	"place_name": "옛날육개장",
+	"place_url": "http://place.map.kakao.com/847807556",
+	"road_address_name": "서울 관악구 관악로 154-6",
+	"x": "126.952850418086",
+	"y": "37.4788230060569"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1629-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "16818695",
+	"phone": "02-888-9696",
+	"place_name": "몽고샤브샤브전문점",
+	"place_url": "http://place.map.kakao.com/16818695",
+	"road_address_name": "서울 관악구 봉천로 572",
+	"x": "126.960819558133",
+	"y": "37.4772257246143"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1625-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 쌈밥",
+	"distance": "",
+	"id": "9186293",
+	"phone": "02-874-7333",
+	"place_name": "시골집",
+	"place_url": "http://place.map.kakao.com/9186293",
+	"road_address_name": "서울 관악구 낙성대로 22-7",
+	"x": "126.958468200087",
+	"y": "37.4768789338449"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1667-49",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 곱창,막창",
+	"distance": "",
+	"id": "16740149",
+	"phone": "02-872-1118",
+	"place_name": "낙성곱창",
+	"place_url": "http://place.map.kakao.com/16740149",
+	"road_address_name": "서울 관악구 봉천로 495-3",
+	"x": "126.9550919065923",
+	"y": "37.481456627811575"
+}
+,{
+	"address_name": "서울 관악구 신림동 269-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "16527144",
+	"phone": "02-887-2777",
+	"place_name": "심가면옥",
+	"place_url": "http://place.map.kakao.com/16527144",
+	"road_address_name": "서울 관악구 신림로 121",
+	"x": "126.935830849205",
+	"y": "37.4707311284626"
+}
+,{
+	"address_name": "서울 관악구 봉천동 923-16",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리 > 삼계탕",
+	"distance": "",
+	"id": "16448678",
+	"phone": "02-877-2100",
+	"place_name": "한근한방삼계탕",
+	"place_url": "http://place.map.kakao.com/16448678",
+	"road_address_name": "서울 관악구 봉천로 396",
+	"x": "126.943680741876",
+	"y": "37.4827654103204"
+}
+,{
+	"address_name": "서울 관악구 청룡동 1592-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국밥",
+	"distance": "",
+	"id": "16296276",
+	"phone": "02-889-3390",
+	"place_name": "산야로콩나물국밥",
+	"place_url": "http://place.map.kakao.com/16296276",
+	"road_address_name": "서울 관악구 관악로 111",
+	"x": "126.952436787107",
+	"y": "37.4750025596804"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1592-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해장국 > 청진동해장국",
+	"distance": "",
+	"id": "20747852",
+	"phone": "02-875-9882",
+	"place_name": "박막례청진동해장국",
+	"place_url": "http://place.map.kakao.com/20747852",
+	"road_address_name": "서울 관악구 관악로 105",
+	"x": "126.952622435661",
+	"y": "37.4746170020284"
+}
+,{
+	"address_name": "서울 관악구 은천동 931-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "18546321",
+	"phone": "02-886-4242",
+	"place_name": "고창복의낙지세상 봉천점",
+	"place_url": "http://place.map.kakao.com/18546321",
+	"road_address_name": "서울 관악구 남부순환로 1725",
+	"x": "126.94190797465",
+	"y": "37.4826744511323"
+}
+,{
+	"address_name": "서울 관악구 봉천동 943-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "13062586",
+	"phone": "02-882-8443",
+	"place_name": "들깨향장수밀",
+	"place_url": "http://place.map.kakao.com/13062586",
+	"road_address_name": "서울 관악구 봉천로 355",
+	"x": "126.93981484684635",
+	"y": "37.48448623257136"
+}
+,{
+	"address_name": "서울 관악구 봉천동 863-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 오리",
+	"distance": "",
+	"id": "1519622220",
+	"phone": "02-875-9999",
+	"place_name": "풍년오리",
+	"place_url": "http://place.map.kakao.com/1519622220",
+	"road_address_name": "서울 관악구 관악로15길 9",
+	"x": "126.951890841162",
+	"y": "37.4801453007209"
+}
+,{
+	"address_name": "서울 관악구 봉천동 972-42",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 곰탕",
+	"distance": "",
+	"id": "16044108",
+	"phone": "02-888-8302",
+	"place_name": "원조나주곰탕 봉천점",
+	"place_url": "http://place.map.kakao.com/16044108",
+	"road_address_name": "서울 관악구 봉천로 213-18",
+	"x": "126.925777354667",
+	"y": "37.4905258126185"
+}
+,{
+	"address_name": "서울 관악구 남현동 1062-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "8403822",
+	"phone": "02-521-0056",
+	"place_name": "삼수갑산",
+	"place_url": "http://place.map.kakao.com/8403822",
+	"road_address_name": "서울 관악구 남현1길 38-9",
+	"x": "126.979695722411",
+	"y": "37.4755509939561"
+}
+,{
+	"address_name": "서울 관악구 보라매동 968-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "16709079",
+	"phone": "",
+	"place_name": "신안산낙지철판",
+	"place_url": "http://place.map.kakao.com/16709079",
+	"road_address_name": "서울 관악구 봉천로 295",
+	"x": "126.933840321285",
+	"y": "37.4871716463817"
+}
+,{
+	"address_name": "서울 관악구 신림동 528-19",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 매운탕,해물탕",
+	"distance": "",
+	"id": "290823931",
+	"phone": "02-858-1979",
+	"place_name": "일구칠구매운탕 본점",
+	"place_url": "http://place.map.kakao.com/290823931",
+	"road_address_name": "서울 관악구 난곡로66가길 6",
+	"x": "126.915043893971",
+	"y": "37.4828492025493"
+}
+,{
+	"address_name": "서울 관악구 봉천동 972-41",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "1057981014",
+	"phone": "02-876-1919",
+	"place_name": "수제눈꽃돼지갈비",
+	"place_url": "http://place.map.kakao.com/1057981014",
+	"road_address_name": "서울 관악구 봉천로 219-8",
+	"x": "126.926216253222",
+	"y": "37.4903566981488"
+}
+,{
+	"address_name": "서울 관악구 봉천동 729-22",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "13582241",
+	"phone": "02-3289-8799",
+	"place_name": "예전 롯데백화점관악점",
+	"place_url": "http://place.map.kakao.com/13582241",
+	"road_address_name": "서울 관악구 봉천로 209",
+	"x": "126.92526060261443",
+	"y": "37.490523684827394"
+}
+,{
+	"address_name": "서울 관악구 봉천동 932-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선",
+	"distance": "",
+	"id": "652192431",
+	"phone": "02-888-2232",
+	"place_name": "상도늘보리 봉천역점",
+	"place_url": "http://place.map.kakao.com/652192431",
+	"road_address_name": "서울 관악구 봉천로 379",
+	"x": "126.942251057859",
+	"y": "37.4834927351209"
+}
+,{
+	"address_name": "서울 관악구 신림동 236-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "14596484",
+	"phone": "02-882-5858",
+	"place_name": "백년초왕갈비탕 서울대점",
+	"place_url": "http://place.map.kakao.com/14596484",
+	"road_address_name": "서울 관악구 신림로7길 10",
+	"x": "126.941338868465",
+	"y": "37.4701645525605"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1601-22",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 해산물",
+	"distance": "",
+	"id": "1804837266",
+	"phone": "02-871-0090",
+	"place_name": "명태어장 서울대점",
+	"place_url": "http://place.map.kakao.com/1804837266",
+	"road_address_name": "서울 관악구 남부순환로 1852",
+	"x": "126.95556768417",
+	"y": "37.4799052701764"
+}
+,{
+	"address_name": "서울 관악구 봉천동 861-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "10277585",
+	"phone": "02-889-2233",
+	"place_name": "진우리참치 별관",
+	"place_url": "http://place.map.kakao.com/10277585",
+	"road_address_name": "서울 관악구 봉천로 472",
+	"x": "126.952206297173",
+	"y": "37.4818897820639"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1685-21",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브 > 뽕잎사랑",
+	"distance": "",
+	"id": "17322692",
+	"phone": "02-876-3932",
+	"place_name": "뽕잎사랑 낙성대점",
+	"place_url": "http://place.map.kakao.com/17322692",
+	"road_address_name": "서울 관악구 남부순환로 1915",
+	"x": "126.962221115082",
+	"y": "37.4778785119332"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1599-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "24840775",
+	"phone": "",
+	"place_name": "정박사정육식당 서울대입구점",
+	"place_url": "http://place.map.kakao.com/24840775",
+	"road_address_name": "서울 관악구 관악로14길 15",
+	"x": "126.953469730498",
+	"y": "37.4792160916031"
+}
+,{
+	"address_name": "서울 관악구 남현동 1062-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "9217717",
+	"phone": "02-586-3011",
+	"place_name": "시골명가",
+	"place_url": "http://place.map.kakao.com/9217717",
+	"road_address_name": "서울 관악구 남현1길 40",
+	"x": "126.979677596885",
+	"y": "37.4756879443355"
+}
+,{
+	"address_name": "서울 관악구 신림동 1430-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "8416287",
+	"phone": "02-877-1272",
+	"place_name": "아리차이 신림점",
+	"place_url": "http://place.map.kakao.com/8416287",
+	"road_address_name": "서울 관악구 신림동길 4",
+	"x": "126.928272317548",
+	"y": "37.4876152971167"
+}
+,{
+	"address_name": "서울 관악구 신림동 1411-28",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "286727954",
+	"phone": "02-888-9665",
+	"place_name": "황제갈비",
+	"place_url": "http://place.map.kakao.com/286727954",
+	"road_address_name": "서울 관악구 남부순환로 1644",
+	"x": "126.9333170178384",
+	"y": "37.48438903904718"
+}
+,{
+	"address_name": "서울 관악구 봉천동 701-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "13287229",
+	"phone": "",
+	"place_name": "만나칼국수",
+	"place_url": "http://place.map.kakao.com/13287229",
+	"road_address_name": "서울 관악구 봉천로7길 23",
+	"x": "126.92635405786358",
+	"y": "37.490506351358654"
+}
+,{
+	"address_name": "서울 관악구 봉천동 863-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕 > 신선설농탕",
+	"distance": "",
+	"id": "11119291",
+	"phone": "02-871-9500",
+	"place_name": "신선설농탕 서울대역점",
+	"place_url": "http://place.map.kakao.com/11119291",
+	"road_address_name": "서울 관악구 관악로 163",
+	"x": "126.952121708204",
+	"y": "37.4797921989283"
+}
+,{
+	"address_name": "서울 관악구 신림동 528-19",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 매운탕,해물탕",
+	"distance": "",
+	"id": "290823931",
+	"phone": "02-858-1979",
+	"place_name": "일구칠구매운탕 본점",
+	"place_url": "http://place.map.kakao.com/290823931",
+	"road_address_name": "서울 관악구 난곡로66가길 6",
+	"x": "126.915043893971",
+	"y": "37.4828492025493"
+}
+,{
+	"address_name": "서울 관악구 봉천동 874-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해장국",
+	"distance": "",
+	"id": "1531129807",
+	"phone": "02-888-1365",
+	"place_name": "양평서울해장국큰아들집 서울대입구역점",
+	"place_url": "http://place.map.kakao.com/1531129807",
+	"road_address_name": "서울 관악구 남부순환로 1797",
+	"x": "126.949926964037",
+	"y": "37.4818852340336"
+}
+,{
+	"address_name": "서울 관악구 남현동 1060-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "26344965",
+	"phone": "02-3472-6073",
+	"place_name": "고베그릴",
+	"place_url": "http://place.map.kakao.com/26344965",
+	"road_address_name": "서울 관악구 남부순환로 2082-25",
+	"x": "126.981020575039",
+	"y": "37.4760485716052"
+}
+,{
+	"address_name": "서울 관악구 신림동 241-43",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 아시아음식 > 동남아음식",
+	"distance": "",
+	"id": "16707978",
+	"phone": "02-873-7470",
+	"place_name": "하노이별 녹두거리시작점",
+	"place_url": "http://place.map.kakao.com/16707978",
+	"road_address_name": "서울 관악구 신림로11길 18",
+	"x": "126.93874821863902",
+	"y": "37.469755981295684"
+}
+,{
+	"address_name": "서울 관악구 봉천동 967-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "596320792",
+	"phone": "02-877-4715",
+	"place_name": "돈가대박집",
+	"place_url": "http://place.map.kakao.com/596320792",
+	"road_address_name": "서울 관악구 봉천로 303",
+	"x": "126.934582376104",
+	"y": "37.4868116564019"
+}
+,{
+	"address_name": "서울 관악구 신림동 131-21",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "7966744",
+	"phone": "02-885-7064",
+	"place_name": "소문난회집",
+	"place_url": "http://place.map.kakao.com/7966744",
+	"road_address_name": "서울 관악구 신림로 90",
+	"x": "126.939380301581",
+	"y": "37.4709492451847"
+}
+,{
+	"address_name": "서울 관악구 신림동 1428-21",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "21573872",
+	"phone": "02-888-6940",
+	"place_name": "미가할매집",
+	"place_url": "http://place.map.kakao.com/21573872",
+	"road_address_name": "서울 관악구 신림로 374",
+	"x": "126.929013946452",
+	"y": "37.4877382821035"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1666-26",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 매운탕,해물탕",
+	"distance": "",
+	"id": "23027786",
+	"phone": "",
+	"place_name": "용궁해물탕",
+	"place_url": "http://place.map.kakao.com/23027786",
+	"road_address_name": "서울 관악구 남부순환로 1835-26",
+	"x": "126.954092586187",
+	"y": "37.4812201794271"
+}
+,{
+	"address_name": "서울 관악구 신림동 112-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "10213232",
+	"phone": "02-877-9239",
+	"place_name": "금비",
+	"place_url": "http://place.map.kakao.com/10213232",
+	"road_address_name": "서울 관악구 신림로 164",
+	"x": "126.93419172369384",
+	"y": "37.4732710758769"
+}
+,{
+	"address_name": "서울 관악구 신림동 1668",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1096195870",
+	"phone": "",
+	"place_name": "농협안심한우마을",
+	"place_url": "http://place.map.kakao.com/1096195870",
+	"road_address_name": "서울 관악구 남부순환로 1369",
+	"x": "126.902903281165",
+	"y": "37.4800962779126"
+}
+,{
+	"address_name": "서울 관악구 신림동 704-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16501822",
+	"phone": "02-865-4064",
+	"place_name": "안성갈비",
+	"place_url": "http://place.map.kakao.com/16501822",
+	"road_address_name": "서울 관악구 난곡로31길 5",
+	"x": "126.919470263499",
+	"y": "37.4713301942471"
+}
+,{
+	"address_name": "서울 관악구 신림동 1416-26",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "12751393",
+	"phone": "02-877-7030",
+	"place_name": "명품횡성한우가 직영점",
+	"place_url": "http://place.map.kakao.com/12751393",
+	"road_address_name": "서울 관악구 봉천로 266",
+	"x": "126.930524408796",
+	"y": "37.4879193815458"
+}
+,{
+	"address_name": "서울 관악구 남현동 1062-16",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+	"distance": "",
+	"id": "13078844",
+	"phone": "02-3474-5822",
+	"place_name": "족팔려 사당역본점",
+	"place_url": "http://place.map.kakao.com/13078844",
+	"road_address_name": "서울 관악구 남현3길 75",
+	"x": "126.980767445995",
+	"y": "37.4756160459673"
+}
+,{
+	"address_name": "서울 관악구 신림동 1637-26",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "23953128",
+	"phone": "02-888-8883",
+	"place_name": "구영회참치&초밥 신림점",
+	"place_url": "http://place.map.kakao.com/23953128",
+	"road_address_name": "서울 관악구 신원로 34",
+	"x": "126.929232149677",
+	"y": "37.4817701341801"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1628-18",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "15637180",
+	"phone": "02-886-3362",
+	"place_name": "돈파스팔레 낙성대본점",
+	"place_url": "http://place.map.kakao.com/15637180",
+	"road_address_name": "서울 관악구 봉천로 568-1",
+	"x": "126.960602437152",
+	"y": "37.4773301695258"
+}
+,{
+	"address_name": "서울 관악구 신림동 1643-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 양꼬치",
+	"distance": "",
+	"id": "20133772",
+	"phone": "02-809-9292",
+	"place_name": "풍무양꼬치",
+	"place_url": "http://place.map.kakao.com/20133772",
+	"road_address_name": "서울 관악구 시흥대로 572",
+	"x": "126.902827170626",
+	"y": "37.4838669360868"
+}
+,{
+	"address_name": "서울 관악구 신림동 10-629",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕",
+	"distance": "",
+	"id": "110192438",
+	"phone": "",
+	"place_name": "구수옥설렁탕",
+	"place_url": "http://place.map.kakao.com/110192438",
+	"road_address_name": "서울 관악구 남부순환로 1674",
+	"x": "126.936504378543",
+	"y": "37.4843556556532"
+}
+,{
+	"address_name": "서울 관악구 봉천동 926-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골",
+	"distance": "",
+	"id": "1833993757",
+	"phone": "02-874-8786",
+	"place_name": "송탄부대찌개 봉천역점",
+	"place_url": "http://place.map.kakao.com/1833993757",
+	"road_address_name": "서울 관악구 봉천로 382-1",
+	"x": "126.942298915032",
+	"y": "37.4830116199278"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1598-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "18508537",
+	"phone": "02-873-5164",
+	"place_name": "모힝",
+	"place_url": "http://place.map.kakao.com/18508537",
+	"road_address_name": "서울 관악구 남부순환로226길 36",
+	"x": "126.953533145776",
+	"y": "37.4790503308595"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1599-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "24840775",
+	"phone": "",
+	"place_name": "정박사정육식당 서울대입구점",
+	"place_url": "http://place.map.kakao.com/24840775",
+	"road_address_name": "서울 관악구 관악로14길 15",
+	"x": "126.953469730498",
+	"y": "37.4792160916031"
+}
+,{
+	"address_name": "서울 관악구 신림동 110-61",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 불고기,두루치기",
+	"distance": "",
+	"id": "20174899",
+	"phone": "02-871-2369",
+	"place_name": "옛날불고기",
+	"place_url": "http://place.map.kakao.com/20174899",
+	"road_address_name": "서울 관악구 신림로18가길 24",
+	"x": "126.935101630705",
+	"y": "37.472125494222"
+}
+,{
+	"address_name": "서울 관악구 신림동 1522-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 초밥,롤",
+	"distance": "",
+	"id": "1557148482",
+	"phone": "02-871-8286",
+	"place_name": "스시건",
+	"place_url": "http://place.map.kakao.com/1557148482",
+	"road_address_name": "서울 관악구 호암로24길 35",
+	"x": "126.935112789882",
+	"y": "37.4696783560417"
+}
+,{
+	"address_name": "서울 관악구 봉천동 925-27",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 장어",
+	"distance": "",
+	"id": "24874394",
+	"phone": "02-883-6543",
+	"place_name": "신안바다장어구이",
+	"place_url": "http://place.map.kakao.com/24874394",
+	"road_address_name": "서울 관악구 봉천로 385",
+	"x": "126.942843618361",
+	"y": "37.4833596739984"
+}
+,{
+	"address_name": "서울 관악구 신림동 527-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "543382106",
+	"phone": "02-868-3300",
+	"place_name": "탐나종합어시장 난곡사거리점",
+	"place_url": "http://place.map.kakao.com/543382106",
+	"road_address_name": "서울 관악구 남부순환로 1481",
+	"x": "126.915107874256",
+	"y": "37.4822617909726"
+}
+,{
+	"address_name": "서울 관악구 신림동 1738",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "27435597",
+	"phone": "02-853-6188",
+	"place_name": "한고을해물팥칼국수",
+	"place_url": "http://place.map.kakao.com/27435597",
+	"road_address_name": "서울 관악구 난곡로 100",
+	"x": "126.919509366799",
+	"y": "37.4643816255483"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1597-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "26330129",
+	"phone": "02-871-5417",
+	"place_name": "이금옥샤브샤브칼국수",
+	"place_url": "http://place.map.kakao.com/26330129",
+	"road_address_name": "서울 관악구 관악로 132",
+	"x": "126.952711391623",
+	"y": "37.4769740791581"
+}
+,{
+	"address_name": "서울 관악구 봉천동 1628-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "1662441502",
+	"phone": "02-872-7978",
+	"place_name": "배영만당진아구동태찜탕 낙성대점",
+	"place_url": "http://place.map.kakao.com/1662441502",
+	"road_address_name": "서울 관악구 봉천로 560",
+	"x": "126.959878737933",
+	"y": "37.4776002288587"
+}
+,{
+	"address_name": "서울 관악구 신림동 1433-60",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "13491393",
+	"phone": "02-883-2110",
+	"place_name": "막불감동 신림본점",
+	"place_url": "http://place.map.kakao.com/13491393",
+	"road_address_name": "서울 관악구 남부순환로 1599",
+	"x": "126.92816920558418",
+	"y": "37.48429952470972"
+}
+,{
+	"address_name": "서울 관악구 신림동 1680-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국밥",
+	"distance": "",
+	"id": "26608778",
+	"phone": "02-838-0880",
+	"place_name": "곤지암할매소머리국밥 난곡점",
+	"place_url": "http://place.map.kakao.com/26608778",
+	"road_address_name": "서울 관악구 문성로 100",
+	"x": "126.914719883938",
+	"y": "37.4774501238035"
+}
+,{
+	"address_name": "서울 관악구 신림동 1638-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 분식 > 떡볶이",
+	"distance": "",
+	"id": "27388945",
+	"phone": "02-873-6262",
+	"place_name": "마뇨떡볶이",
+	"place_url": "http://place.map.kakao.com/27388945",
+	"road_address_name": "서울 관악구 신원로 35",
+	"x": "126.92891739503139",
+	"y": "37.48223666774206"
+}
+,{
+	"address_name": "서울 관악구 신림동 1635-76",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "1367867054",
+	"phone": "02-862-2828",
+	"place_name": "명태랑족발이랑",
+	"place_url": "http://place.map.kakao.com/1367867054",
+	"road_address_name": "서울 관악구 신원로 6",
+	"x": "126.928080714698",
+	"y": "37.4798935384461"
+}
+,{
+	"address_name": "서울 관악구 신림동 546-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 돈까스,우동",
+	"distance": "",
+	"id": "27508076",
+	"phone": "02-3281-3330",
+	"place_name": "온정돈까스",
+	"place_url": "http://place.map.kakao.com/27508076",
+	"road_address_name": "서울 관악구 조원로 60",
+	"x": "126.909109463358",
+	"y": "37.4835475729473"
+}
+,{
+	"address_name": "서울 관악구 신림동 1445-14",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "90567096",
+	"phone": "02-875-4500",
+	"place_name": "원주골돌솥추어탕",
+	"place_url": "http://place.map.kakao.com/90567096",
+	"road_address_name": "서울 관악구 봉천로 190",
+	"x": "126.922607628626",
+	"y": "37.4896479995184"
+}
+,{
+	"address_name": "서울 관악구 신림동 569-38",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 감자탕",
+	"distance": "",
+	"id": "63493743",
+	"phone": "02-854-5459",
+	"place_name": "대추나무골감자탕 조원본점",
+	"place_url": "http://place.map.kakao.com/63493743",
+	"road_address_name": "서울 관악구 조원중앙로 42",
+	"x": "126.907047976343",
+	"y": "37.4828900350081"
+}
+,{
+	"address_name": "서울 관악구 신림동 10-277",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "680729199",
+	"phone": "02-883-1700",
+	"place_name": "메밀언덕",
+	"place_url": "http://place.map.kakao.com/680729199",
+	"road_address_name": "서울 관악구 남부순환로186길 12",
+	"x": "126.933110402642",
+	"y": "37.4840573511714"
+}
+,{
+	"address_name": "서울 관악구 봉천동 874-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해장국",
+	"distance": "",
+	"id": "1531129807",
+	"phone": "02-888-1365",
+	"place_name": "양평서울해장국큰아들집 서울대입구역점",
+	"place_url": "http://place.map.kakao.com/1531129807",
+	"road_address_name": "서울 관악구 남부순환로 1797",
+	"x": "126.949926964037",
+	"y": "37.4818852340336"
+}
+,{
+	"address_name": "서울 관악구 봉천동 37-86",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "162648151",
+	"phone": "02-6487-3392",
+	"place_name": "삼다돈 봉천점",
+	"place_url": "http://place.map.kakao.com/162648151",
+	"road_address_name": "서울 관악구 관악로 246",
+	"x": "126.957015831001",
+	"y": "37.486075913184"
+}
+,{
+	"address_name": "서울 관악구 봉천동 466-70",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "15593777",
+	"phone": "02-866-7677",
+	"place_name": "이가네아구찜 추어탕",
+	"place_url": "http://place.map.kakao.com/15593777",
+	"road_address_name": "서울 관악구 은천로25길 17",
+	"x": "126.94912266097657",
+	"y": "37.48752159880529"
+}
+,{
+	"address_name": "서울 관악구 신림동 1432-128",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "789540459",
+	"phone": "02-6339-8530",
+	"place_name": "부추삼겹살 딱이야 본점",
+	"place_url": "http://place.map.kakao.com/789540459",
+	"road_address_name": "서울 관악구 신림동5길 49",
+	"x": "126.92786321740073",
+	"y": "37.48503816507587"
+}
+,{
+	"address_name": "서울 관악구 봉천동 37-86",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "333960443",
+	"phone": "",
+	"place_name": "미가면옥",
+	"place_url": "http://place.map.kakao.com/333960443",
+	"road_address_name": "서울 관악구 관악로 246",
+	"x": "126.957003385194",
+	"y": "37.4860903247864"
+}
+,{
+	"address_name": "서울 관악구 신림동 1422-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "1163226224",
+	"phone": "02-883-1113",
+	"place_name": "라공방 신림점",
+	"place_url": "http://place.map.kakao.com/1163226224",
+	"road_address_name": "서울 관악구 신림로 340",
+	"x": "126.930097679463",
+	"y": "37.4847619976698"
+}
+
+]

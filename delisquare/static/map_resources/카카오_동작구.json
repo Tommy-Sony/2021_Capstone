@@ -1,0 +1,1263 @@
+﻿[
+{
+	"address_name": "서울 동작구 사당동 142-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "92485873",
+	"phone": "02-532-4135",
+	"place_name": "그릴진 이수직영점",
+	"place_url": "http://place.map.kakao.com/92485873",
+	"road_address_name": "서울 동작구 동작대로27다길 31",
+	"x": "126.980538634451",
+	"y": "37.4860496932177"
+}
+,{
+	"address_name": "서울 동작구 대방동 405-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리 > 일미리금계찜닭",
+	"distance": "",
+	"id": "1446429958",
+	"phone": "02-826-1246",
+	"place_name": "일미리금계찜닭 신대방삼거리역점",
+	"place_url": "http://place.map.kakao.com/1446429958",
+	"road_address_name": "서울 동작구 보라매로 113",
+	"x": "126.927899103728",
+	"y": "37.4994615090239"
+}
+,{
+	"address_name": "서울 동작구 노량진동 13-6",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "2128290421",
+	"phone": "02-2254-7937",
+	"place_name": "진주식당",
+	"place_url": "http://place.map.kakao.com/2128290421",
+	"road_address_name": "서울 동작구 노들로 674",
+	"x": "126.93764152427251",
+	"y": "37.51463276805417"
+}
+,{
+	"address_name": "서울 동작구 노량진동 13-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "623156736",
+	"phone": "02-2254-7964",
+	"place_name": "청해진",
+	"place_url": "http://place.map.kakao.com/623156736",
+	"road_address_name": "서울 동작구 노들로 674",
+	"x": "126.938421819822",
+	"y": "37.514845814307"
+}
+,{
+	"address_name": "서울 동작구 노량진동 90-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대 > 담소소사골순대육개장",
+	"distance": "",
+	"id": "1683720595",
+	"phone": "02-812-1821",
+	"place_name": "담소소사골순대육개장 노량진점",
+	"place_url": "http://place.map.kakao.com/1683720595",
+	"road_address_name": "서울 동작구 노량진로16길 27",
+	"x": "126.944061149146",
+	"y": "37.5123978889685"
+}
+,{
+	"address_name": "서울 동작구 노량진동 13-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 매운탕,해물탕",
+	"distance": "",
+	"id": "13099927",
+	"phone": "02-815-0324",
+	"place_name": "미자식당",
+	"place_url": "http://place.map.kakao.com/13099927",
+	"road_address_name": "서울 동작구 노들로 674",
+	"x": "126.93796939139847",
+	"y": "37.514822151477546"
+}
+,{
+	"address_name": "서울 동작구 노량진동 124-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "1501620179",
+	"phone": "02-825-0140",
+	"place_name": "선샤브향",
+	"place_url": "http://place.map.kakao.com/1501620179",
+	"road_address_name": "서울 동작구 만양로14길 37",
+	"x": "126.946110761756",
+	"y": "37.5122727012615"
+}
+,{
+	"address_name": "서울 동작구 노량진동 123-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식",
+	"distance": "",
+	"id": "16706107",
+	"phone": "02-823-2225",
+	"place_name": "와가마마",
+	"place_url": "http://place.map.kakao.com/16706107",
+	"road_address_name": "서울 동작구 만양로14길 12",
+	"x": "126.945106963758",
+	"y": "37.5114505232025"
+}
+,{
+	"address_name": "서울 동작구 노량진동 57-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "2052954763",
+	"phone": "",
+	"place_name": "전주식당",
+	"place_url": "http://place.map.kakao.com/2052954763",
+	"road_address_name": "서울 동작구 노량진로 140",
+	"x": "126.941656278712",
+	"y": "37.5126390956901"
+}
+,{
+	"address_name": "서울 동작구 노량진동 120-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리 > 삼계탕",
+	"distance": "",
+	"id": "12388832",
+	"phone": "02-815-2559",
+	"place_name": "정동진",
+	"place_url": "http://place.map.kakao.com/12388832",
+	"road_address_name": "서울 동작구 만양로 85",
+	"x": "126.944383403542",
+	"y": "37.5110140986524"
+}
+,{
+	"address_name": "서울 동작구 노량진동 57-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 분식",
+	"distance": "",
+	"id": "27312895",
+	"phone": "02-822-7100",
+	"place_name": "토마토김밥 노량진점",
+	"place_url": "http://place.map.kakao.com/27312895",
+	"road_address_name": "서울 동작구 노량진로 140",
+	"x": "126.941685474551",
+	"y": "37.5129121143348"
+}
+,{
+	"address_name": "서울 동작구 노량진동 271-4",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "12790297",
+	"phone": "02-827-0911",
+	"place_name": "거구회관",
+	"place_url": "http://place.map.kakao.com/12790297",
+	"road_address_name": "서울 동작구 등용로14길 76",
+	"x": "126.9356729880602",
+	"y": "37.51245488694477"
+}
+,{
+	"address_name": "서울 동작구 노량진동 270-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "16885409",
+	"phone": "02-817-8664",
+	"place_name": "궁중순대보쌈",
+	"place_url": "http://place.map.kakao.com/16885409",
+	"road_address_name": "서울 동작구 등용로14길 60",
+	"x": "126.93484975045213",
+	"y": "37.512234590748555"
+}
+,{
+	"address_name": "서울 동작구 노량진동 36-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16591971",
+	"phone": "02-824-5830",
+	"place_name": "원조마포참숯불갈비",
+	"place_url": "http://place.map.kakao.com/16591971",
+	"road_address_name": "서울 동작구 노량진로8길 35",
+	"x": "126.937360419948",
+	"y": "37.512628786638"
+}
+,{
+	"address_name": "서울 동작구 노량진동 44-12",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "20538728",
+	"phone": "02-812-5484",
+	"place_name": "천년약속",
+	"place_url": "http://place.map.kakao.com/20538728",
+	"road_address_name": "서울 동작구 노량진로 124",
+	"x": "126.93961077019478",
+	"y": "37.51326426540989"
+}
+,{
+	"address_name": "서울 동작구 노량진동 56-14",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 곰탕",
+	"distance": "",
+	"id": "933212082",
+	"phone": "02-825-3400",
+	"place_name": "유가네한우곰탕 노량진점",
+	"place_url": "http://place.map.kakao.com/933212082",
+	"road_address_name": "서울 동작구 장승배기로28길 19",
+	"x": "126.941332910038",
+	"y": "37.5124830618165"
+}
+,{
+	"address_name": "서울 동작구 노량진동 206-19",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골",
+	"distance": "",
+	"id": "26783424",
+	"phone": "02-817-1123",
+	"place_name": "마마부찌",
+	"place_url": "http://place.map.kakao.com/26783424",
+	"road_address_name": "서울 동작구 만양로14길 40",
+	"x": "126.94629633132",
+	"y": "37.5121718733123"
+}
+,{
+	"address_name": "서울 동작구 노량진동 40-34",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1272818926",
+	"phone": "02-6101-9299",
+	"place_name": "다독이네숯불구이",
+	"place_url": "http://place.map.kakao.com/1272818926",
+	"road_address_name": "서울 동작구 노량진로 106-5",
+	"x": "126.937776390339",
+	"y": "37.5129533679497"
+}
+,{
+	"address_name": "서울 동작구 노량진동 27-2",
+	"category_group_code": "",
+	"category_group_name": "",
+	"category_name": "가정,생활 > 결혼 > 예식장",
+	"distance": "",
+	"id": "586406708",
+	"phone": "02-6333-2727",
+	"place_name": "베라카채플웨딩",
+	"place_url": "http://place.map.kakao.com/586406708",
+	"road_address_name": "서울 동작구 노량진로 100",
+	"x": "126.937246937177",
+	"y": "37.5130756243962"
+}
+,{
+	"address_name": "서울 동작구 대방동 23-161",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 삼겹살",
+	"distance": "",
+	"id": "242037422",
+	"phone": "02-812-9185",
+	"place_name": "호순네집",
+	"place_url": "http://place.map.kakao.com/242037422",
+	"road_address_name": "서울 동작구 등용로 107",
+	"x": "126.931878683928",
+	"y": "37.5106795833995"
+}
+,{
+	"address_name": "서울 동작구 대방동 345-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "21423284",
+	"phone": "02-810-5056",
+	"place_name": "그린테라스",
+	"place_url": "http://place.map.kakao.com/21423284",
+	"road_address_name": "서울 동작구 여의대방로54길 18",
+	"x": "126.927226873586",
+	"y": "37.5116102494521"
+}
+,{
+	"address_name": "서울 동작구 대방동 396-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 감자탕 > 남다른감자탕",
+	"distance": "",
+	"id": "20459916",
+	"phone": "02-3280-2110",
+	"place_name": "남다른감자탕 서울대방점",
+	"place_url": "http://place.map.kakao.com/20459916",
+	"road_address_name": "서울 동작구 상도로 33",
+	"x": "126.924279722654",
+	"y": "37.4999962440969"
+}
+,{
+	"address_name": "서울 동작구 상도동 470-9",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 쌈밥",
+	"distance": "",
+	"id": "22710765",
+	"phone": "02-2681-3392",
+	"place_name": "다채 상도점",
+	"place_url": "http://place.map.kakao.com/22710765",
+	"road_address_name": "서울 동작구 상도로52길 28",
+	"x": "126.950617841758",
+	"y": "37.4972422989195"
+}
+,{
+	"address_name": "서울 동작구 대방동 401-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 사철탕,영양탕",
+	"distance": "",
+	"id": "18222979",
+	"phone": "",
+	"place_name": "싸리집",
+	"place_url": "http://place.map.kakao.com/18222979",
+	"road_address_name": "서울 동작구 여의대방로26길 25",
+	"x": "126.921629488328",
+	"y": "37.4994358919431"
+}
+,{
+	"address_name": "서울 동작구 대방동 417-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "19809332",
+	"phone": "02-821-5740",
+	"place_name": "대방회집",
+	"place_url": "http://place.map.kakao.com/19809332",
+	"road_address_name": "서울 동작구 여의대방로 134-1",
+	"x": "126.920734233748",
+	"y": "37.4990496640576"
+}
+,{
+	"address_name": "서울 동작구 대방동 404-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 장어",
+	"distance": "",
+	"id": "26594450",
+	"phone": "070-8229-8954",
+	"place_name": "무한장어 신대방점",
+	"place_url": "http://place.map.kakao.com/26594450",
+	"road_address_name": "서울 동작구 상도로 50",
+	"x": "126.925994536803",
+	"y": "37.4996153042793"
+}
+,{
+	"address_name": "서울 동작구 대방동 417-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "19658658",
+	"phone": "02-823-2517",
+	"place_name": "세종대왕숯불갈비 보라매점",
+	"place_url": "http://place.map.kakao.com/19658658",
+	"road_address_name": "서울 동작구 여의대방로 136",
+	"x": "126.92076563946",
+	"y": "37.4992947587655"
+}
+,{
+	"address_name": "서울 동작구 대방동 49-6",
+	"category_group_code": "",
+	"category_group_name": "",
+	"category_name": "가정,생활 > 결혼 > 예식장",
+	"distance": "",
+	"id": "1135670974",
+	"phone": "02-828-2100",
+	"place_name": "라무르웨딩하우스",
+	"place_url": "http://place.map.kakao.com/1135670974",
+	"road_address_name": "서울 동작구 노량진로 74",
+	"x": "126.932740754305",
+	"y": "37.5129722319873"
+}
+,{
+	"address_name": "서울 동작구 대방동 339-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 오리",
+	"distance": "",
+	"id": "7995433",
+	"phone": "02-824-5215",
+	"place_name": "약초마을 본점",
+	"place_url": "http://place.map.kakao.com/7995433",
+	"road_address_name": "서울 동작구 노량진로 26",
+	"x": "126.929202735456",
+	"y": "37.5129341242181"
+}
+,{
+	"address_name": "서울 동작구 대방동 341-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "13298476",
+	"phone": "02-823-9600",
+	"place_name": "초록애 대방점",
+	"place_url": "http://place.map.kakao.com/13298476",
+	"road_address_name": "서울 동작구 여의대방로54길 5",
+	"x": "126.925928045015",
+	"y": "37.5119734477771"
+}
+,{
+	"address_name": "서울 동작구 대방동 501",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1065790042",
+	"phone": "02-816-2436",
+	"place_name": "한마루가든",
+	"place_url": "http://place.map.kakao.com/1065790042",
+	"road_address_name": "서울 동작구 여의대방로 250",
+	"x": "126.924297941797",
+	"y": "37.5088333152189"
+}
+,{
+	"address_name": "서울 동작구 대방동 39-2",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "8173274",
+	"phone": "02-827-0722",
+	"place_name": "희래등",
+	"place_url": "http://place.map.kakao.com/8173274",
+	"road_address_name": "서울 동작구 등용로 123",
+	"x": "126.931732690917",
+	"y": "37.5120165893818"
+}
+,{
+	"address_name": "서울 동작구 사당동 1041-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 두부전문점",
+	"distance": "",
+	"id": "8106735",
+	"phone": "02-3472-2202",
+	"place_name": "가마솥손두부",
+	"place_url": "http://place.map.kakao.com/8106735",
+	"road_address_name": "서울 동작구 남부순환로271길 20",
+	"x": "126.980192578158",
+	"y": "37.4777351257611"
+}
+,{
+	"address_name": "서울 동작구 사당동 1041-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "24410272",
+	"phone": "",
+	"place_name": "구름산원주추어탕",
+	"place_url": "http://place.map.kakao.com/24410272",
+	"road_address_name": "서울 동작구 사당로30길 158",
+	"x": "126.980595025096",
+	"y": "37.4778613338714"
+}
+,{
+	"address_name": "서울 동작구 사당동 1032-29",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "12101762",
+	"phone": "02-597-7080",
+	"place_name": "권참치 사당점",
+	"place_url": "http://place.map.kakao.com/12101762",
+	"road_address_name": "서울 동작구 사당로30길 142",
+	"x": "126.980549619515",
+	"y": "37.4785677178091"
+}
+,{
+	"address_name": "서울 동작구 사당동 1031-21",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 참치회",
+	"distance": "",
+	"id": "27328740",
+	"phone": "02-523-3799",
+	"place_name": "김종구의참치박사",
+	"place_url": "http://place.map.kakao.com/27328740",
+	"road_address_name": "서울 동작구 동작대로 25-1",
+	"x": "126.981010859595",
+	"y": "37.4787011422244"
+}
+,{
+	"address_name": "서울 동작구 사당동 1031-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 일식집",
+	"distance": "",
+	"id": "27384429",
+	"phone": "02-523-5937",
+	"place_name": "초와밥",
+	"place_url": "http://place.map.kakao.com/27384429",
+	"road_address_name": "서울 동작구 동작대로5길 8",
+	"x": "126.981006226007",
+	"y": "37.4791408340354"
+}
+,{
+	"address_name": "서울 동작구 사당동 1044-28",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+	"distance": "",
+	"id": "27221013",
+	"phone": "0504-570-3953",
+	"place_name": "형가원보쌈족발",
+	"place_url": "http://place.map.kakao.com/27221013",
+	"road_address_name": "서울 동작구 동작대로1길 33",
+	"x": "126.979509856368",
+	"y": "37.4772340480282"
+}
+,{
+	"address_name": "서울 동작구 사당동 139-88",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리",
+	"distance": "",
+	"id": "8463891",
+	"phone": "02-592-1125",
+	"place_name": "고추찜닭 본점",
+	"place_url": "http://place.map.kakao.com/8463891",
+	"road_address_name": "서울 동작구 동작대로27가길 14",
+	"x": "126.981067563501",
+	"y": "37.4869688074982"
+}
+,{
+	"address_name": "서울 동작구 사당동 147-81",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 한정식",
+	"distance": "",
+	"id": "12652978",
+	"phone": "02-532-3945",
+	"place_name": "단아한정식",
+	"place_url": "http://place.map.kakao.com/12652978",
+	"road_address_name": "서울 동작구 동작대로27가길 44",
+	"x": "126.980900559431",
+	"y": "37.4856352884721"
+}
+,{
+	"address_name": "서울 동작구 사당동 140-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 새마을식당",
+	"distance": "",
+	"id": "9090466",
+	"phone": "02-593-3392",
+	"place_name": "새마을식당 이수점",
+	"place_url": "http://place.map.kakao.com/9090466",
+	"road_address_name": "서울 동작구 동작대로27다길 10",
+	"x": "126.980352913164",
+	"y": "37.4871524964683"
+}
+,{
+	"address_name": "서울 동작구 사당동 139-63",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "8030888",
+	"phone": "02-3476-5252",
+	"place_name": "원할머니보쌈족발 이수역점",
+	"place_url": "http://place.map.kakao.com/8030888",
+	"road_address_name": "서울 동작구 동작대로27나길 22",
+	"x": "126.980583673472",
+	"y": "37.4867777152452"
+}
+,{
+	"address_name": "서울 동작구 사당동 91-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "12045926",
+	"phone": "02-3478-0105",
+	"place_name": "유정우함흥냉면",
+	"place_url": "http://place.map.kakao.com/12045926",
+	"road_address_name": "서울 동작구 동작대로29다길 7-1",
+	"x": "126.980329923961",
+	"y": "37.4885832932946"
+}
+,{
+	"address_name": "서울 동작구 사당동 139-62",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1346660585",
+	"phone": "02-535-1696",
+	"place_name": "팔이구이 이수태평점",
+	"place_url": "http://place.map.kakao.com/1346660585",
+	"road_address_name": "서울 동작구 동작대로27다길 15",
+	"x": "126.980588172946",
+	"y": "37.4868678167973"
+}
+,{
+	"address_name": "서울 동작구 사당동 219-7",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 곰탕",
+	"distance": "",
+	"id": "19298830",
+	"phone": "02-3476-2999",
+	"place_name": "내고향나주곰탕 사당본점",
+	"place_url": "http://place.map.kakao.com/19298830",
+	"road_address_name": "서울 동작구 사당로 183",
+	"x": "126.969145856508",
+	"y": "37.4860184350428"
+}
+,{
+	"address_name": "서울 동작구 사당동 252-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "27383691",
+	"phone": "02-596-5260",
+	"place_name": "마실",
+	"place_url": "http://place.map.kakao.com/27383691",
+	"road_address_name": "서울 동작구 사당로 215",
+	"x": "126.97232140182335",
+	"y": "37.48444425904789"
+}
+,{
+	"address_name": "서울 동작구 사당동 265-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "7892325",
+	"phone": "02-537-0660",
+	"place_name": "백제갈비",
+	"place_url": "http://place.map.kakao.com/7892325",
+	"road_address_name": "서울 동작구 사당로 231",
+	"x": "126.9736558431676",
+	"y": "37.483702133093864"
+}
+,{
+	"address_name": "서울 동작구 사당동 252-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "21355054",
+	"phone": "02-532-3643",
+	"place_name": "봉평메밀막국수",
+	"place_url": "http://place.map.kakao.com/21355054",
+	"road_address_name": "서울 동작구 사당로 215",
+	"x": "126.972303312569",
+	"y": "37.4844406507749"
+}
+,{
+	"address_name": "서울 동작구 사당동 252-17",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "364836938",
+	"phone": "02-3477-7225",
+	"place_name": "쌈반",
+	"place_url": "http://place.map.kakao.com/364836938",
+	"road_address_name": "서울 동작구 사당로 215",
+	"x": "126.97211334402",
+	"y": "37.4844874585303"
+}
+,{
+	"address_name": "서울 동작구 사당1동 1043-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "8147061",
+	"phone": "02-583-4118",
+	"place_name": "한울갈비",
+	"place_url": "http://place.map.kakao.com/8147061",
+	"road_address_name": "서울 동작구 동작대로1길 9",
+	"x": "126.980794172875",
+	"y": "37.4772018274207"
+}
+,{
+	"address_name": "서울 동작구 상도동 474-16",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 불고기,두루치기",
+	"distance": "",
+	"id": "21243360",
+	"phone": "02-825-1111",
+	"place_name": "광양불고기준서네",
+	"place_url": "http://place.map.kakao.com/21243360",
+	"road_address_name": "서울 동작구 상도로56길 4",
+	"x": "126.952744483583",
+	"y": "37.4962340414098"
+}
+,{
+	"address_name": "서울 동작구 상도동 183-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 회",
+	"distance": "",
+	"id": "183108761",
+	"phone": "02-822-3214",
+	"place_name": "명성",
+	"place_url": "http://place.map.kakao.com/183108761",
+	"road_address_name": "서울 동작구 상도로24길 35",
+	"x": "126.939191191881",
+	"y": "37.5034322866817"
+}
+,{
+	"address_name": "서울 동작구 상도1동 244-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "25044677",
+	"phone": "02-814-6022",
+	"place_name": "사리원",
+	"place_url": "http://place.map.kakao.com/25044677",
+	"road_address_name": "서울 동작구 상도로50길 2-15",
+	"x": "126.950634670914",
+	"y": "37.4991632514128"
+}
+,{
+	"address_name": "서울 동작구 상도1동 625",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브",
+	"distance": "",
+	"id": "12333481",
+	"phone": "02-817-0808",
+	"place_name": "상도정 상도동점",
+	"place_url": "http://place.map.kakao.com/12333481",
+	"road_address_name": "서울 동작구 양녕로 273",
+	"x": "126.94910678648803",
+	"y": "37.50425148366458"
+}
+,{
+	"address_name": "서울 동작구 상도동 464-32",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16934442",
+	"phone": "02-821-0252",
+	"place_name": "진성 참숯불갈비",
+	"place_url": "http://place.map.kakao.com/16934442",
+	"road_address_name": "서울 동작구 상도로47길 10",
+	"x": "126.951575193345",
+	"y": "37.4997402846117"
+}
+,{
+	"address_name": "서울 동작구 상도1동 578",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 중식 > 중화요리",
+	"distance": "",
+	"id": "8102302",
+	"phone": "02-826-8885",
+	"place_name": "채홍",
+	"place_url": "http://place.map.kakao.com/8102302",
+	"road_address_name": "서울 동작구 강남초등길 24",
+	"x": "126.951974346792",
+	"y": "37.5051176494059"
+}
+,{
+	"address_name": "서울 동작구 상도1동 679",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 술집 > 호프,요리주점",
+	"distance": "",
+	"id": "22676681",
+	"phone": "02-813-0443",
+	"place_name": "탭하우스더슈라인",
+	"place_url": "http://place.map.kakao.com/22676681",
+	"road_address_name": "서울 동작구 양녕로 269",
+	"x": "126.948650078633",
+	"y": "37.5039593602673"
+}
+,{
+	"address_name": "서울 동작구 상도동 477-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "16092637",
+	"phone": "02-815-6007",
+	"place_name": "함지박",
+	"place_url": "http://place.map.kakao.com/16092637",
+	"road_address_name": "서울 동작구 상도로37길 68-1",
+	"x": "126.952616599971",
+	"y": "37.4981801641665"
+}
+,{
+	"address_name": "서울 동작구 상도동 22-86",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16934734",
+	"phone": "02-822-7656",
+	"place_name": "명갈비 상도본점",
+	"place_url": "http://place.map.kakao.com/16934734",
+	"road_address_name": "서울 동작구 상도로31길 83",
+	"x": "126.94606600675691",
+	"y": "37.50530611266766"
+}
+,{
+	"address_name": "서울 동작구 대방동 417-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "19658658",
+	"phone": "02-823-2517",
+	"place_name": "세종대왕숯불갈비 보라매점",
+	"place_url": "http://place.map.kakao.com/19658658",
+	"road_address_name": "서울 동작구 여의대방로 136",
+	"x": "126.92076563946",
+	"y": "37.4992947587655"
+}
+,{
+	"address_name": "서울 동작구 상도동 363-111",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리",
+	"distance": "",
+	"id": "10622969",
+	"phone": "02-815-9085",
+	"place_name": "용마골",
+	"place_url": "http://place.map.kakao.com/10622969",
+	"road_address_name": "서울 동작구 등용로 17",
+	"x": "126.936561208378",
+	"y": "37.5053950951475"
+}
+,{
+	"address_name": "서울 동작구 상도동 214-201",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "88933145",
+	"phone": "02-811-0730",
+	"place_name": "정선메밀고을 서울상도점",
+	"place_url": "http://place.map.kakao.com/88933145",
+	"road_address_name": "서울 동작구 양녕로26길 63",
+	"x": "126.943707178644",
+	"y": "37.4957507452343"
+}
+,{
+	"address_name": "서울 동작구 상도동 183-61",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리 > 지호한방삼계탕",
+	"distance": "",
+	"id": "8560005",
+	"phone": "02-811-1569",
+	"place_name": "지호한방삼계탕 동작점",
+	"place_url": "http://place.map.kakao.com/8560005",
+	"road_address_name": "서울 동작구 상도로26길 18",
+	"x": "126.93882104934892",
+	"y": "37.503827636951605"
+}
+,{
+	"address_name": "서울 동작구 상도동 324-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 불고기,두루치기",
+	"distance": "",
+	"id": "16820939",
+	"phone": "02-814-3392",
+	"place_name": "시래불고기 화풍정",
+	"place_url": "http://place.map.kakao.com/16820939",
+	"road_address_name": "서울 동작구 상도로 102",
+	"x": "126.93171673954177",
+	"y": "37.49972687113233"
+}
+,{
+	"address_name": "서울 동작구 신대방동 344-36",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국수",
+	"distance": "",
+	"id": "1614818184",
+	"phone": "02-817-8881",
+	"place_name": "풀향기손칼국수",
+	"place_url": "http://place.map.kakao.com/1614818184",
+	"road_address_name": "서울 동작구 보라매로 73",
+	"x": "126.927360886688",
+	"y": "37.4958706692262"
+}
+,{
+	"address_name": "서울 동작구 상도동 348-147",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16084253",
+	"phone": "02-812-9298",
+	"place_name": "흥부골숯불돼지갈비",
+	"place_url": "http://place.map.kakao.com/16084253",
+	"road_address_name": "서울 동작구 상도로15길 3",
+	"x": "126.932592989364",
+	"y": "37.5011978159883"
+}
+,{
+	"address_name": "서울 동작구 사당동 1041-24",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "24410272",
+	"phone": "",
+	"place_name": "구름산원주추어탕",
+	"place_url": "http://place.map.kakao.com/24410272",
+	"road_address_name": "서울 동작구 사당로30길 158",
+	"x": "126.980595025096",
+	"y": "37.4778613338714"
+}
+,{
+	"address_name": "서울 동작구 노량진동 36-5",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16591971",
+	"phone": "02-824-5830",
+	"place_name": "원조마포참숯불갈비",
+	"place_url": "http://place.map.kakao.com/16591971",
+	"road_address_name": "서울 동작구 노량진로8길 35",
+	"x": "126.937360419948",
+	"y": "37.512628786638"
+}
+,{
+	"address_name": "서울 동작구 상도동 215-3",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 쌈밥",
+	"distance": "",
+	"id": "12077093",
+	"phone": "02-821-8889",
+	"place_name": "시골집",
+	"place_url": "http://place.map.kakao.com/12077093",
+	"road_address_name": "서울 동작구 양녕로26길 56",
+	"x": "126.943611920525",
+	"y": "37.4961074984323"
+}
+,{
+	"address_name": "서울 동작구 상도동 355-8",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "20171411",
+	"phone": "02-815-4715",
+	"place_name": "어촌생선구이",
+	"place_url": "http://place.map.kakao.com/20171411",
+	"road_address_name": "서울 동작구 상도로 122",
+	"x": "126.93388666862695",
+	"y": "37.50129585571535"
+}
+,{
+	"address_name": "서울 동작구 상도동 183-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골",
+	"distance": "",
+	"id": "27404223",
+	"phone": "02-813-3082",
+	"place_name": "탕마루 생고기김치찌개 장승배기역점",
+	"place_url": "http://place.map.kakao.com/27404223",
+	"road_address_name": "서울 동작구 상도로26길 12",
+	"x": "126.938476054621",
+	"y": "37.5038932311688"
+}
+,{
+	"address_name": "서울 동작구 상도동 183-13",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 해물,생선 > 추어",
+	"distance": "",
+	"id": "16475326",
+	"phone": "02-821-6550",
+	"place_name": "원조 남원추어탕",
+	"place_url": "http://place.map.kakao.com/16475326",
+	"road_address_name": "서울 동작구 상도로26길 12",
+	"x": "126.938480596182",
+	"y": "37.5038716094045"
+}
+,{
+	"address_name": "서울 동작구 신대방동 618-15",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 두부전문점",
+	"distance": "",
+	"id": "23751312",
+	"phone": "02-846-8116",
+	"place_name": "우리콩사랑",
+	"place_url": "http://place.map.kakao.com/23751312",
+	"road_address_name": "서울 동작구 신대방2길 3",
+	"x": "126.912650107297",
+	"y": "37.4879003104183"
+}
+,{
+	"address_name": "서울 동작구 신대방동 367-33",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "9751077",
+	"phone": "02-821-7789",
+	"place_name": "남도향",
+	"place_url": "http://place.map.kakao.com/9751077",
+	"road_address_name": "",
+	"x": "126.920930424885",
+	"y": "37.4974568166297"
+}
+,{
+	"address_name": "서울 동작구 신대방2동 395-66",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 돈까스,우동",
+	"distance": "",
+	"id": "20197177",
+	"phone": "",
+	"place_name": "돈까스참잘하는집 보라매점",
+	"place_url": "http://place.map.kakao.com/20197177",
+	"road_address_name": "서울 동작구 보라매로5길 43",
+	"x": "126.923333934992",
+	"y": "37.4914973401606"
+}
+,{
+	"address_name": "서울 동작구 신대방동 395-69",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 양식 > 이탈리안",
+	"distance": "",
+	"id": "8060014",
+	"phone": "02-6269-7878",
+	"place_name": "라이스&파스타",
+	"place_url": "http://place.map.kakao.com/8060014",
+	"road_address_name": "서울 동작구 보라매로5가길 16",
+	"x": "126.92411442766036",
+	"y": "37.4912374529766"
+}
+,{
+	"address_name": "서울 동작구 신대방동 395-69",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 국밥 > 이화수전통육개장",
+	"distance": "",
+	"id": "2029831756",
+	"phone": "02-835-9278",
+	"place_name": "이화수전통육개장 서울보라매점",
+	"place_url": "http://place.map.kakao.com/2029831756",
+	"road_address_name": "서울 동작구 보라매로5가길 16",
+	"x": "126.924139205125",
+	"y": "37.4913356786795"
+}
+,{
+	"address_name": "서울 동작구 신대방동 370-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 일식 > 코코이찌방야",
+	"distance": "",
+	"id": "11234854",
+	"phone": "02-820-8888",
+	"place_name": "코코이찌방야 보라매점",
+	"place_url": "http://place.map.kakao.com/11234854",
+	"road_address_name": "서울 동작구 여의대방로 112",
+	"x": "126.919659643047",
+	"y": "37.4971748452775"
+}
+,{
+	"address_name": "서울 동작구 신대방동 395-70",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 냉면",
+	"distance": "",
+	"id": "719980524",
+	"phone": "02-3284-3677",
+	"place_name": "서평면옥",
+	"place_url": "http://place.map.kakao.com/719980524",
+	"road_address_name": "서울 동작구 보라매로5길 15",
+	"x": "126.92426048342",
+	"y": "37.4921718911555"
+}
+,{
+	"address_name": "서울 동작구 흑석동 6-10",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "1050988588",
+	"phone": "02-821-9867",
+	"place_name": "계단집",
+	"place_url": "http://place.map.kakao.com/1050988588",
+	"road_address_name": "서울 동작구 현충로 94",
+	"x": "126.964185210423",
+	"y": "37.5080196150404"
+}
+,{
+	"address_name": "서울 동작구 상도동 502-11",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "16536338",
+	"phone": "02-823-1005",
+	"place_name": "고기스토리 숭실대점",
+	"place_url": "http://place.map.kakao.com/16536338",
+	"road_address_name": "서울 동작구 상도로61길 21",
+	"x": "126.956101472139",
+	"y": "37.4951108801462"
+}
+,{
+	"address_name": "서울 동작구 흑석동 184-19",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16904627",
+	"phone": "02-815-4724",
+	"place_name": "거구장",
+	"place_url": "http://place.map.kakao.com/16904627",
+	"road_address_name": "서울 동작구 흑석로 101-7",
+	"x": "126.96080346979",
+	"y": "37.5080185413012"
+}
+,{
+	"address_name": "서울 동작구 흑석동 99-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 닭요리 > 삼계탕",
+	"distance": "",
+	"id": "1915410994",
+	"phone": "02-824-3339",
+	"place_name": "고봉삼계탕 중앙대점",
+	"place_url": "http://place.map.kakao.com/1915410994",
+	"road_address_name": "서울 동작구 서달로 166",
+	"x": "126.962911820847",
+	"y": "37.5077453166087"
+}
+,{
+	"address_name": "서울 동작구 신대방동 377-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 찌개,전골 > 놀부부대찌개",
+	"distance": "",
+	"id": "23925039",
+	"phone": "02-824-7474",
+	"place_name": "놀부부대찌개 보라매역점",
+	"place_url": "http://place.map.kakao.com/23925039",
+	"road_address_name": "서울 동작구 여의대방로 126",
+	"x": "126.92078613034859",
+	"y": "37.49809643439423"
+}
+,{
+	"address_name": "서울 동작구 신대방동 395-69",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 샤브샤브 > 등촌샤브샤브칼국수",
+	"distance": "",
+	"id": "10373174",
+	"phone": "02-843-7338",
+	"place_name": "등촌샤브칼국수 보라매점",
+	"place_url": "http://place.map.kakao.com/10373174",
+	"road_address_name": "서울 동작구 보라매로5가길 16",
+	"x": "126.924116604417",
+	"y": "37.4913212480492"
+}
+,{
+	"address_name": "서울 동작구 흑석동 50-12",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기",
+	"distance": "",
+	"id": "27392127",
+	"phone": "02-817-0128",
+	"place_name": "또우리",
+	"place_url": "http://place.map.kakao.com/27392127",
+	"road_address_name": "서울 동작구 서달로14길 30",
+	"x": "126.964567729234",
+	"y": "37.5075223756987"
+}
+,{
+	"address_name": "서울 동작구 흑석동 224-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식",
+	"distance": "",
+	"id": "12045548",
+	"phone": "02-822-1456",
+	"place_name": "소담",
+	"place_url": "http://place.map.kakao.com/12045548",
+	"road_address_name": "서울 동작구 흑석로 102",
+	"x": "126.960840253479",
+	"y": "37.5068868913075"
+}
+,{
+	"address_name": "서울 동작구 흑석동 224-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 설렁탕",
+	"distance": "",
+	"id": "13608452",
+	"phone": "070-8726-6687",
+	"place_name": "큰솥설렁탕",
+	"place_url": "http://place.map.kakao.com/13608452",
+	"road_address_name": "서울 동작구 흑석로 102",
+	"x": "126.960781379269",
+	"y": "37.5070058044366"
+}
+,{
+	"address_name": "서울 동작구 흑석동 224-1",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 순대",
+	"distance": "",
+	"id": "11846777",
+	"phone": "",
+	"place_name": "평안찹쌀순대",
+	"place_url": "http://place.map.kakao.com/11846777",
+	"road_address_name": "서울 동작구 흑석로 102",
+	"x": "126.960799496026",
+	"y": "37.50696616623"
+}
+,{
+	"address_name": "서울 동작구 흑석동 102-65",
+	"category_group_code": "FD6",
+	"category_group_name": "음식점",
+	"category_name": "음식점 > 한식 > 육류,고기 > 갈비",
+	"distance": "",
+	"id": "16044352",
+	"phone": "02-814-4467",
+	"place_name": "황토정",
+	"place_url": "http://place.map.kakao.com/16044352",
+	"road_address_name": "서울 동작구 서달로13길 5-23",
+	"x": "126.961884888711",
+	"y": "37.5076909294194"
+}
+
+]
