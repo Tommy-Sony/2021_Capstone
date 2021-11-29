@@ -58,7 +58,7 @@ header .menu li:last-child a{   padding-right: 0;}
 header .menu li a:hover{
     color: #ff9f24;
     font-weight: bold;
-    transition: 0.5s;
+    transition: 0.6s;
     /*text-decoration: underline;*/
 }
 header .menu li a:after{
