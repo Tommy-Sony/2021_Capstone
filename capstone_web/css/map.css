@@ -18,6 +18,7 @@ section h1{
     width: 500px; height: 50px;
     color:#ff9f24;
     font-size: 17px;
+    animation: fadein 2s;
 }
 
 .map-section{
@@ -25,6 +26,7 @@ section h1{
     width: 80%; height:50%;
     margin:10px auto;
     background-color: rgb(72, 181, 196);
+    animation: fadein 3s;
 }
 
 .map-section p{
@@ -33,4 +35,22 @@ section h1{
     left:40%; top:50%;
     font-size: 14px;
     color:#fff;
+}
+
+.map-section a{
+    content:"";
+    position: relative;
+    left:40%; top:60%;
+    font-size: 100px;
+    color:rgb(72, 181, 196);
+}
+
+
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
 }
