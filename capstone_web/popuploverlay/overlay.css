@@ -2,8 +2,8 @@
     position: absolute;
     left: 50%;
     bottom: 50%;
-    width: 300px;
-    height: 180px;
+    width: 400px;
+    height: 240px;
     background: #fff;
     margin-left: -144px;
     text-align: left;
@@ -15,9 +15,9 @@
 }
 
 .overlaybox .name{
-    width: 266px;
+    width: 350px;
     height: 30px;
-    margin: 15px; 
+    margin: 25px; 
     overflow: hidden;
     font-size: 20px;
     font-weight: bold;
@@ -46,29 +46,31 @@
     position: relative;
     width: 280px;
     height: 30px;
-    margin: 15px;
+    margin-left: 30px;
     font-size: 15px;
 }
 
 .overlaybox .menu{
-    padding-left: 15px;
+    padding-left: 30px;
 }
 
 /*img scr*/
 .overlaybox .img{
     position: absolute;
     content: block;
-    background-color: #ff9f24; 
-    width: 70px;
-    height: 70px;
-    left: 70%;
+    background: url('/img/icon_한식.png') no-repeat;
+    width: 100px;
+    height: 120px;
+    left: 65%;
+    top: 65px;
 }
 
 .overlaybox a{
     position: relative;
     width: 280px;
-    height: 30px;
-    margin: 20px;
+    height: 40px;
+    top: 20px;
+    margin-left: 40px;
     margin-top: 10px;
 }
 
