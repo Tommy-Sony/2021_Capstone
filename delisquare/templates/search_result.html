@@ -5,7 +5,9 @@
         <link rel="stylesheet" href="{{url_for('static',filename='css/default.css')}}">
         <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
         <link rel="stylesheet" href="{{url_for('static',filename='css/search.css')}}">
+        <link rel="stylesheet" href="{{url_for('static',filename='css/chart.css')}}">
         <link rel="stylesheet" href="{{url_for('static',filename='css/search_result.css')}}">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
     </head>
     <body>
         <a href="#" class="skip">본문 바로가기</a>
@@ -41,6 +43,14 @@
                 {% for post in posts %}
                 <div class="search-section" >
                   <h1>{{ post.author.storename }}</h1>
+                    <canvas id="myChart">
+                            <script type="text/javascript" src="{{url_for('static',filename='js/chart.js')}}"></script>
+                    </canvas>
+
+                    <p class="location">가게 위치</p>
+                    <P class="mainmenu">주 메뉴</P>
+                    <span class="keyword">긍정치 키워드</span>
+                    <span class="keyword">부정치 키워드</span>
                     <h2>{{ post.review }}</h2>
                     <h3>{{ post.rank }}</h3>
                     <!--

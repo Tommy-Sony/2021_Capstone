@@ -24,7 +24,7 @@ function displayStore(loc,name,markers,customOverlays,url){
                     '<span class="close" onclick="removeCustomOverlay('+overlay_var+')" title="닫기"></span>' +
             '</div>'+
             '<div class="block"></div>' +
-            '<span class="img">이미지</span>' +
+            '<span class="img"></span>' +
             '<div class = "content">' +
                 '<span>'+name+'</span>' +
                 '<span class="menu">주요 메뉴</span>' +
@@ -38,7 +38,7 @@ function displayStore(loc,name,markers,customOverlays,url){
                 map: map,
                 position: coords,
                 content: content,
-                xAnchor: 0.3,
+                xAnchor: 0.91,
                 yAnchor: 0.91,
                 removable: true
             });
@@ -81,3 +81,64 @@ function displayStore(loc,name,markers,customOverlays,url){
     });    
 }
 
+function displayStore_test(loc,name,markers,customOverlays,url,img_url){
+
+    geocoder.addressSearch(loc, function(result, status) {
+
+        // 정상적으로 검색이 완료됐으면
+         if (status === kakao.maps.services.Status.OK) {
+            var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
+            // 결과값으로 받은 위치를 마커로 표시합니다
+            var marker = new kakao.maps.Marker({
+                map: map,
+                position: coords
+                //clickable: true // 마커를 클릭했을 때 지도의 클릭 이벤트가 발생하지 않도록 설정합니다
+            });
+
+            marker.setMap(null);
+            markers.push(marker);
+
+
+            var overlay_var = "'"+customOverlays+"'";
+            //함수 부분 바꿔야댐 (왜....안 되지?)
+            var content= '<div class="overlaybox">' +
+            '<div class="name">' +
+                name +
+                    '<span class="close" onclick="removeCustomOverlay('+overlay_var+')" title="닫기"></span>' +
+            '</div>'+
+            '<div class="block"></div>' +
+            '<span>'+
+            '<img src="static/img/'+img_url+'" class="overlay-img">' +
+            '</span>'+
+            '<div class = "content">' +
+                '<span>'+name+'</span>' +
+                '<span class="menu">주요 메뉴</span>' +
+            '</div>' +
+
+            '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'
+
+
+            var overlay = new kakao.maps.CustomOverlay({
+                map: map,
+                position: coords,
+                content: content,
+                xAnchor: 0.91,
+                yAnchor: 0.91,
+                removable: true
+            });
+
+            overlay.setMap(null);
+            customOverlays.push(overlay);
+
+            kakao.maps.event.addListener(marker, 'click', function() {
+
+
+                removeCustomOverlay(customOverlays);
+                overlay.setMap(map,marker);
+            });
+
+
+
+        }
+    });
+}

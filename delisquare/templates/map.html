@@ -40,15 +40,20 @@
             <script type="text/javascript" src="{{url_for('static',filename='js/marker.js')}}"></script>
             <script>
             var placeOverlay = new kakao.maps.CustomOverlay({zIndex:1}), 
-            contentNode = document.createElement('div'), // 커스텀 오버레이의 컨텐츠 엘리먼트 입니다 
-            markers = [], // 마커를 담을 배열입니다
-            markers_2 = [],
+            contentNode = document.createElement('div'), // 커스텀 오버레이의 컨텐츠 엘리먼트 입니다
             currCategory = ''; // 현재 선택된 카테고리를 가지고 있을 변수입니다
+
+            var markers = []; // 마커를 담을 배열입니다
+            var markers_2 = [];
+            var markers_3 = [];
 
             var infoWindows = [];
             var infoWindows_2 =[];
+            var infoWindows_3 =[];
+
             var customOverlays = [];
             var customOverlays_2 = [];
+            var customOverlays_3 = [];
 
             var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
             mapOption = { 
@@ -62,7 +67,7 @@
             customOverlay = new kakao.maps.CustomOverlay({}),
             infowindow = new kakao.maps.InfoWindow({removable: true});
 
-            //지오코더 켜면 폴리곤이 안 됨 (왜 ㅠㅠ?)
+
             //var geocoder = new kakao.maps.services.Geocoder();
              
             var geocoder = new kakao.maps.services.Geocoder();

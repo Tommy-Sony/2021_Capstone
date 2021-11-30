@@ -1,7 +1,7 @@
 header{
     text-align:center;
     height: 140px;
-   
+
 }
 
 header:after{
@@ -28,7 +28,7 @@ header h1 a:hover{
     width: 110px; height:110px;
     border-radius: 50%;
     box-shadow:0 0px 8px rgba(255, 196, 119, 0.897);
-   
+
 }
 
 header .menu{    position: absolute; right:50px; top: 100px;}
@@ -63,6 +63,6 @@ header .menu li a:hover{
 }
 header .menu li a:after{
     content: "";
-    display: block;   
+    display: block;
 }
 

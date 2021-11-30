@@ -1,18 +1,18 @@
+
 .overlaybox{
     position: absolute;
     left: 50%;
     bottom: 50%;
-    width: 400px;
-    height: 240px;
+    width: 300px;
+    height: 180px;
     background: #fff;
     margin-left: -144px;
-    margin-right: 144px;
     text-align: left;
     overflow: hidden;
     font-size: 12px;
     font-family: 'Malgun Gothic', dotum, '돋움', sans-serif;
     line-height: 1.5;
-    background: url('../img/overlaybox_test.png');
+    background: url('../img/overlaybox.png');
 }
 
 .overlaybox .name{
@@ -47,7 +47,7 @@
     position: relative;
     width: 280px;
     height: 30px;
-    margin: 30px;
+    margin-left: 30px;
     font-size: 15px;
 }
 
@@ -59,8 +59,7 @@
 .overlaybox .img{
     position: absolute;
     content: block;
-    background-color: #ff9f24;
-    background: url('../img/icon_한식.png') no-repeat;
+    background: url('/img/icon_한식.png') no-repeat;
     width: 100px;
     height: 120px;
     left: 65%;
@@ -75,50 +74,3 @@
     margin-left: 40px;
     margin-top: 10px;
 }
-
-.overlay-image {
-    position: absolute;
-    content: block;
-    background-color: #ff9f24;
-    width: 100px;
-    height: 120px;
-    left: 65%;
-    top: 65px;
-}
-
-/*
-업소명
-업태명(일식 등)
-주 메뉴
-지번주소(링크 연결)
-
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>팝업 오버레이</title>
-    <link rel="stylesheet" href="default.css">
-    <link rel="stylesheet" href="overlay.css">
-</head>
-<body>
-
-<div class="overlaybox">
-    <div class="name">
-        가게 이름
-       <!--
-           <div class="close" onclick="closeOverlay()" title="닫기"></div>
-       -->
-    </div>
-    <span class="img">이미지</span>
-    <div class = "content">
-        <span>업태명</span>
-        <span class="menu">주요 메뉴</span>
-    </div>
-
-    <a href=#url>주소 링크</a>
-
-</div>
-
-</body>
-</html>
-*/

@@ -85,6 +85,7 @@ function displayArea(coordinates, name){
         //customOverlay.setMap(null);
     });
 
+    //서초구 1 강남구 2 광진구 3
     kakao.maps.event.addListener(polygon, 'click', function(mouseEvent) {
         checkClick=true;
         checkArea=name;
@@ -95,23 +96,35 @@ function displayArea(coordinates, name){
         infowindow.setMap(map);
         //customOverlay.setMap(map);
         
-        if (name !='서초구'){
+        if (name =='강남구'){
             removeMarker(markers);
+            removeMarker(markers_3);
             //removeInfoWindow(infoWindows);
 
             removeCustomOverlay(customOverlays);
+            removeCustomOverlay(customOverlays_3);
             
             createMarker(markers_2);
             //createCustomOverlay(customOverlays_2);
         }
-        else{
-            //displayStore(loc,name);
+        else if (name=='서초구'){
+            removeMarker(markers_2);
+            removeMarker(markers_3);
+
+            removeCustomOverlay(customOverlays_2);
+            removeCustomOverlay(customOverlays_3);
+
+            createMarker(markers);
+        }
+        else{ //광진구
+            removeMarker(markers);
             removeMarker(markers_2);
             //removeInfoWindow(infoWindows_2);
 
+            removeCustomOverlay(customOverlays);
             removeCustomOverlay(customOverlays_2);
 
-            createMarker(markers);
+            createMarker(markers_3);
             //createCustomOverlay(customOverlays);
         }
        

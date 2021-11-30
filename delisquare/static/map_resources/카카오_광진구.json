@@ -140,20 +140,6 @@
 	"y": "37.5357308738041"
 }
 ,{
-	"address_name": "서울 은평구 대조동 220-28",
-	"category_group_code": "FD6",
-	"category_group_name": "음식점",
-	"category_name": "음식점 > 양식 > 해산물",
-	"distance": "",
-	"id": "1869699627",
-	"phone": "1588-3484",
-	"place_name": "최수연동해아구해물찜탕",
-	"place_url": "http://place.map.kakao.com/1869699627",
-	"road_address_name": "서울 은평구 연서로 178-1",
-	"x": "126.918165110099",
-	"y": "37.6147395547879"
-}
-,{
 	"address_name": "서울 광진구 구의동 73-5",
 	"category_group_code": "FD6",
 	"category_group_name": "음식점",
@@ -278,20 +264,6 @@
 	"road_address_name": "서울 광진구 용마산로 154",
 	"x": "127.086509934894",
 	"y": "37.5673908962557"
-}
-,{
-	"address_name": "서울 양천구 신정동 1051-13",
-	"category_group_code": "FD6",
-	"category_group_name": "음식점",
-	"category_name": "음식점 > 한식 > 사철탕,영양탕",
-	"distance": "",
-	"id": "27342243",
-	"phone": "02-2062-0777",
-	"place_name": "은행나무집",
-	"place_url": "http://place.map.kakao.com/27342243",
-	"road_address_name": "서울 양천구 중앙로34가길 8",
-	"x": "126.854837769063",
-	"y": "37.5189136741883"
 }
 ,{
 	"address_name": "서울 광진구 중곡동 138-19",

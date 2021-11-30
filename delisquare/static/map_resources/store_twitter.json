@@ -1,0 +1,268 @@
+[
+    {
+        "address_name": "서울 종로구 청진동 246",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 양식",
+        "distance": "",
+        "id": "951523370",
+        "phone": "02-544-4256",
+        "place_name": "멜팅샵 치즈룸",
+        "place_url": "http://place.map.kakao.com/951523370",
+        "road_address_name": "서울 종로구 종로3길 17",
+        "x": "126.978972540237",
+        "y": "37.57102109751"
+    }
+    ,{
+        "address_name": "서울 용산구 한남동 683-122",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 술집 > 칵테일바",
+        "distance": "",
+        "id": "1710994348",
+        "phone": "02-749-0232",
+        "place_name": "232",
+        "place_url": "http://place.map.kakao.com/1710994348",
+        "road_address_name": "서울 용산구 이태원로 232",
+        "x": "126.999484066314",
+        "y": "37.5355957287607"
+    }
+    ,{
+        "address_name": "서울 용산구 한강로3가 40-999",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 퓨전요리 > 퓨전일식",
+        "distance": "",
+        "id": "810798323",
+        "phone": "02-2012-0615",
+        "place_name": "낙원테산도 용산아이파크몰점",
+        "place_url": "http://place.map.kakao.com/810798323",
+        "road_address_name": "서울 용산구 한강대로23길 55",
+        "x": "126.964742748813",
+        "y": "37.5297699998206"
+    }
+    ,{
+        "address_name": "서울 용산구 보광동 390-2",
+        "category_group_code": "CE7",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "distance": "",
+        "id": "1640896100",
+        "phone": "02-6080-8130",
+        "place_name": "문랜딩",
+        "place_url": "http://place.map.kakao.com/1640896100",
+        "road_address_name": "서울 용산구 장문로17길 3",
+        "x": "126.997321102898",
+        "y": "37.5261604128064"
+    }
+    ,{
+        "address_name": "서울 마포구 연남동 566-8",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 한식 > 해물,생선 > 회",
+        "distance": "",
+        "id": "9012776",
+        "phone": "02-338-0872",
+        "place_name": "바다회사랑",
+        "place_url": "http://place.map.kakao.com/9012776",
+        "road_address_name": "서울 마포구 동교로27길 60",
+        "x": "126.921063142318",
+        "y": "37.5604116806539"
+    }
+    ,{
+        "address_name": "서울 마포구 서교동 395-20",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 한식 > 육류,고기 > 족발,보쌈",
+        "distance": "",
+        "id": "20812065",
+        "phone": "02-334-7574",
+        "place_name": "미담진족",
+        "place_url": "http://place.map.kakao.com/20812065",
+        "road_address_name": "서울 마포구 잔다리로3안길 27",
+        "x": "126.919815288938",
+        "y": "37.5504097683908"
+    }
+    ,{
+        "address_name": "서울 용산구 청파동3가 48-4",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 한식 > 육류,고기 > 곱창,막창",
+        "distance": "",
+        "id": "15704053",
+        "phone": "",
+        "place_name": "굴다리소곱창",
+        "place_url": "http://place.map.kakao.com/15704053",
+        "road_address_name": "서울 용산구 청파로 269-1",
+        "x": "126.970552391177",
+        "y": "37.5436902466908"
+    }
+    ,{
+        "address_name": "서울 마포구 연남동 373-15",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 일식",
+        "distance": "",
+        "id": "1712115871",
+        "phone": "",
+        "place_name": "연하동",
+        "place_url": "http://place.map.kakao.com/1712115871",
+        "road_address_name": "서울 마포구 연남로 6",
+        "x": "126.923557545107",
+        "y": "37.5605124316366"
+    }
+    ,{
+        "address_name": "서울 중구 명동1가 59-1",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 중식",
+        "distance": "",
+        "id": "650104974",
+        "phone": "02-3789-8820",
+        "place_name": "반티엔야오카오위 명동점",
+        "place_url": "http://place.map.kakao.com/650104974",
+        "road_address_name": "서울 중구 명동7길 13",
+        "x": "126.98396142748021",
+        "y": "37.56434730407295"
+    }
+    ,{
+        "address_name": "서울 성북구 동선동1가 2-6",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 중식",
+        "distance": "",
+        "id": "25451287",
+        "phone": "02-921-3721",
+        "place_name": "애정마라샹궈 본점",
+        "place_url": "http://place.map.kakao.com/25451287",
+        "road_address_name": "서울 성북구 동소문로20나길 11",
+        "x": "127.0172413732234",
+        "y": "37.59217794266114"
+    }
+    ,{
+        "address_name": "서울 서초구 양재동 347-2",
+        "category_group_code": "CE7",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "distance": "",
+        "id": "1832330806",
+        "phone": "070-8826-9000",
+        "place_name": "심재",
+        "place_url": "http://place.map.kakao.com/1832330806",
+        "road_address_name": "서울 서초구 동산로2길 40",
+        "x": "127.042800954783",
+        "y": "37.4681594046294"
+    }
+    ,{
+        "address_name": "서울 종로구 익선동 128-3",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 샤브샤브",
+        "distance": "",
+        "id": "1803090740",
+        "phone": "02-762-8215",
+        "place_name": "온천집 익선",
+        "place_url": "http://place.map.kakao.com/1803090740",
+        "road_address_name": "서울 종로구 돈화문로11나길 31-8",
+        "x": "126.98978921791809",
+        "y": "37.57409672360898"
+    }
+    ,{
+        "address_name": "서울 강남구 삼성동 8-5",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 양식",
+        "distance": "",
+        "id": "537508734",
+        "phone": "02-6200-6642",
+        "place_name": "아이수마",
+        "place_url": "http://place.map.kakao.com/537508734",
+        "road_address_name": "서울 강남구 학동로56길 26",
+        "x": "127.042679787938",
+        "y": "37.5154812534335"
+    }
+    ,{
+        "address_name": "서울 강남구 논현동 21-16",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 중식",
+        "distance": "",
+        "id": "1275795136",
+        "phone": "02-546-1409",
+        "place_name": "킹박스",
+        "place_url": "http://place.map.kakao.com/1275795136",
+        "road_address_name": "서울 강남구 강남대로140길 9",
+        "x": "127.021208261188",
+        "y": "37.5139895919224"
+    }
+    ,{
+        "address_name": "서울 성동구 행당동 19-7",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 술집 > 호프,요리주점",
+        "distance": "",
+        "id": "523557997",
+        "phone": "02-2295-5269",
+        "place_name": "용용선생 한양대점",
+        "place_url": "http://place.map.kakao.com/523557997",
+        "road_address_name": "서울 성동구 마조로3가길 15",
+        "x": "127.039911495549",
+        "y": "37.5592780464"
+    }
+    ,{
+        "address_name": "서울 마포구 대흥동 253",
+        "category_group_code": "CE7",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "distance": "",
+        "id": "1659681207",
+        "phone": "0507-1354-9340",
+        "place_name": "두올두낫",
+        "place_url": "http://place.map.kakao.com/1659681207",
+        "road_address_name": "서울 마포구 백범로16길 8-5",
+        "x": "126.942124982869",
+        "y": "37.5472188601165"
+    }
+    ,{
+        "address_name": "서울 송파구 송파동 49-5",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 양식",
+        "distance": "",
+        "id": "340919858",
+        "phone": "02-413-6945",
+        "place_name": "세컨디포레스트 송리단길점",
+        "place_url": "http://place.map.kakao.com/340919858",
+        "road_address_name": "서울 송파구 백제고분로45길 6",
+        "x": "127.1108471321796",
+        "y": "37.509244352391924"
+    }
+    ,{
+        "address_name": "서울 중구 신당동 377-5",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 술집 > 일본식주점",
+        "distance": "",
+        "id": "453664559",
+        "phone": "02-6052-1212",
+        "place_name": "키라키라윤",
+        "place_url": "http://place.map.kakao.com/453664559",
+        "road_address_name": "서울 중구 다산로21길 15",
+        "x": "127.011358470297",
+        "y": "37.5580300577951"
+    }
+    ,{
+        "address_name": "서울 영등포구 여의도동 34-7",
+        "category_group_code": "FD6",
+        "category_group_name": "음식점",
+        "category_name": "음식점 > 한식",
+        "distance": "",
+        "id": "1618457122",
+        "phone": "02-6941-0324",
+        "place_name": "여의도 셋째집",
+        "place_url": "http://place.map.kakao.com/1618457122",
+        "road_address_name": "서울 영등포구 국제금융로8길 2",
+        "x": "126.930048231548",
+        "y": "37.5220167410055"
+    }
+]
