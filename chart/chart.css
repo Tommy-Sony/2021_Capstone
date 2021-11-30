@@ -1,0 +1,10 @@
+.wrap {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    transition: 0.5s;
+  }
+/*
+확인용 css
+실제 적용에선 쓸 필요X
+*/
