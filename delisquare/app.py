@@ -31,8 +31,8 @@ def search_store():
     result= request.form['keyword']
     connect_db = pymysql.connect(host='localhost', user='root', db='capstone', password='0000', charset='utf8')
     curs = connect_db.cursor()
-    sql = "SELECT store_name, pos_rate, pos_keyword FROM kakao_review where store_name = %s"
-    curs.execute(sql, result)
+    sql = "SELECT store_name, pos_rate, pos_keyword FROM kakao_review where store_name LIKE %s"
+    curs.execute(sql,("%" + result + "%"))
     sql_result = curs.fetchall()
     posts = []
     hashtag = []

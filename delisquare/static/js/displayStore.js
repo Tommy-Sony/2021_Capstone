@@ -21,13 +21,13 @@ function displayStore(loc,name,markers,customOverlays,url){
             var content= '<div class="overlaybox">' +
             '<div class="name">' +
                 name +
-                    '<span class="close" onclick="removeCustomOverlay('+overlay_var+')" title="닫기"></span>' +
+                    '<span class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></span>' +
             '</div>'+
             '<div class="block"></div>' +
             '<span class="img"></span>' +
             '<div class = "content">' +
-                '<span>'+name+'</span>' +
-                '<span class="menu">주요 메뉴</span>' +
+                '<span>'+'</span>' +
+                '<span class="menu"></span>' +
             '</div>' +
 
             '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'
@@ -104,15 +104,15 @@ function displayStore_test(loc,name,markers,customOverlays,url,img_url){
             var content= '<div class="overlaybox">' +
             '<div class="name">' +
                 name +
-                    '<span class="close" onclick="removeCustomOverlay('+overlay_var+')" title="닫기"></span>' +
+                    '<span class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></span>' +
             '</div>'+
             '<div class="block"></div>' +
             '<span>'+
             '<img src="static/img/'+img_url+'" class="overlay-img">' +
             '</span>'+
             '<div class = "content">' +
-                '<span>'+name+'</span>' +
-                '<span class="menu">주요 메뉴</span>' +
+                '<span>'+'</span>' +
+                '<span class="menu"></span>' +
             '</div>' +
 
             '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'

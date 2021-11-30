@@ -16,10 +16,9 @@
             <h2 class="hide">메뉴</h2>
             <nav class="menu">
                 <ul>
-                    <li><a href="{{url_for('basic')}}">맛집 스퀘어</a></li>
+                    <li><a href="{{url_for('basic')}}">델리 스퀘어</a></li>
                     <li><a href="{{url_for('map')}}">지도</a></li>
                     <li><a href="#a"><span style="color:#6c8801;font-weight: bold;">검색</span></a></li>
-                    <li><a href="{{url_for('config')}}">환경 설정</a></li>
                 </ul>
             </nav>
         </header>
@@ -49,8 +48,7 @@
 
                     <p class="location">가게 위치</p>
                     <P class="mainmenu">주 메뉴</P>
-                    <span class="keyword">긍정치 키워드</span>
-                    <span class="keyword">부정치 키워드</span>
+
                     <h2>{{ post.review }}</h2>
                     <h3>{{ post.rank }}</h3>
                     <!--
