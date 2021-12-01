@@ -80,13 +80,13 @@
     transition: 0.5s;
 }
 
-.overlay-image {
-    position: absolute;
+.overlay-img {
+    position: relative;
     content: block;
-    background-color: #ff9f24;
+    background-color: #ffffff;
     width: 100px;
     height: 120px;
-    left: 65%;
+    left:30px;
     top: 65px;
 }
 /*
