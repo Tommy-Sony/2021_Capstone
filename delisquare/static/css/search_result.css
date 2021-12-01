@@ -6,11 +6,12 @@
 }
 
 section .search-section{
-    height: auto;
+    height: 300px;
     content: block;
     border-width: 5px;
     border-color: #ff9f24;
     border-style: double;
+    animation: fadein 2s;
 }
 
 section .search-section h1{
@@ -28,8 +29,7 @@ section .search-section .chart{
     position: absolute;
     content: block;
     margin-top: 20px;
-    height: 180px; width: 170px;
-    background-color: aqua;
+    height: 180px; width: 180px;
     margin-left: 30px;
 }
 
@@ -53,6 +53,7 @@ section .search-section .keyword{
     margin: 30px;
     left: 240px;
     text-align: auto;
+    
 }
 
 .search-fail{
@@ -60,11 +61,20 @@ section .search-section .keyword{
     text-align: center;
     font-size: 20px;
     color:#6c8801;
+    animation: fadein 2s;
 }
 
-section .section-img{
-    max-width: 100%;
-    height: auto;
-    margin-top:5px;
-    margin-bottom:5px;
+
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
 }
+
+/*
+search-section 박스 중앙 정렬
+웨 안 되지,,,
+*/
