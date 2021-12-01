@@ -3,7 +3,7 @@
 }
 
 .overlaybox{
-    position: relative;
+    position: absolute;
     width: 400px;
     height: 240px;
     background: #fff;
@@ -12,6 +12,8 @@
     font-size: 12px;
     font-family: 'Malgun Gothic', dotum, '돋움', sans-serif;
     line-height: 1.5;
+    left: -165px;
+    bottom: 30px;
     background: url('../img/overlaybox_test.png');
 }
 
