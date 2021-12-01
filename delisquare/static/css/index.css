@@ -22,12 +22,14 @@ header h1 a{
     width: 110px; height:110px;
     color:transparent;
     background: url(../img/main-logo.png) no-repeat;
+    animation: fadein 2s;
 }
 header h1 a:hover{
     display: block;
     width: 110px; height:110px;
     border-radius: 50%;
     box-shadow:0 0px 8px rgba(255, 196, 119, 0.897);
+    transition:0.4s;
 
 }
 
@@ -36,6 +38,7 @@ header .menu{    position: absolute; right:50px; top: 100px;}
 header .menu li{
     position: relative;
     display: inline-block;
+    animation: fadein 2.5s;
 }
 
 header .menu li:after{
@@ -66,3 +69,11 @@ header .menu li a:after{
     display: block;
 }
 
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}

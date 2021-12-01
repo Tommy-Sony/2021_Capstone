@@ -18,19 +18,21 @@ function displayStore(loc,name,markers,customOverlays,url){
 
             var overlay_var = "'"+customOverlays+"'";
             //함수 부분 바꿔야댐 (왜....안 되지?)
-            var content= '<div class="overlaybox">' +
-            '<div class="name">' +
-                name +
-                    '<span class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></span>' +
-            '</div>'+
-            '<div class="block"></div>' +
-            '<span class="img"></span>' +
-            '<div class = "content">' +
-                '<span>'+'</span>' +
-                '<span class="menu"></span>' +
-            '</div>' +
-
-            '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'
+            var content=
+            '<div class="wrap">' +
+                '<div class="overlaybox">' +
+                    '<div class="name">' +
+                        name +
+                    '</div>'+
+                    '<div class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></div>' +
+                    '<div class = "content">' +
+                        '<span>'+'</span>' +
+                        '<span class="menu"></span>' +
+                    '</div>' +
+                    '<div class="img"></div>' +
+                    '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>' +
+                '</div>' +
+            '</div>'
 
             //var content = '<div style="width:150px;text-align:center;padding:6px 0;">'+ name+ '<a href="https://map.kakao.com/link/map/'+ result[0].y+','+result[0].x+'" style="color:blue" target="_blank">카카오맵 이동</a></div>'
             //커스텀 오버레이로 장소에 대한 설명 표시
@@ -101,21 +103,21 @@ function displayStore_test(loc,name,markers,customOverlays,url,img_url){
 
             var overlay_var = "'"+customOverlays+"'";
             //함수 부분 바꿔야댐 (왜....안 되지?)
-            var content= '<div class="overlaybox">' +
-            '<div class="name">' +
-                name +
-                    '<span class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></span>' +
-            '</div>'+
-            '<div class="block"></div>' +
-            '<span>'+
-            '<img src="static/img/'+img_url+'" class="overlay-img">' +
-            '</span>'+
-            '<div class = "content">' +
-                '<span>'+'</span>' +
-                '<span class="menu"></span>' +
-            '</div>' +
-
-            '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>'
+            var content=
+            '<div class="wrap">' +
+                '<div class="overlaybox">' +
+                    '<div class="name">' +
+                        name +
+                    '</div>'+
+                    '<div class="close" onclick="removeCustomOverlay(customOverlays),removeCustomOverlay(customOverlays_2),removeCustomOverlay(customOverlays_3)" title="닫기"></div>' +
+	                '<div class = "content">' +
+                        '<span>'+'</span>' +
+                        '<span class="menu"></span>' +
+                    '</div>' +
+                    '<img src="static/img/'+img_url+'" class="overlay-img">' +
+                    '<a href="'+url+'" style="color:red" target="_blank" >카카오맵 이동</a>' +
+                '</div>' +
+            '</div>'
 
 
             var overlay = new kakao.maps.CustomOverlay({

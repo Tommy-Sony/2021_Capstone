@@ -26,4 +26,14 @@ section .main-info article{
     left:20px; top:45%;
     font-size: 14px;
     color:#8d8d8d;
+    animation: fadein 5s;
+}
+
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
 }

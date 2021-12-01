@@ -1,9 +1,11 @@
 section{
     position: relative;
+    height: 100%;
     text-align:left;
     margin: 0 auto;
     padding: 40px 20px;
     padding-right: 120px;
+    animation: fadein 4s;
 }
 
 section .search-input input{
@@ -32,6 +34,16 @@ section .search-button a{
     
 }
 
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+/*
 .search-section{
     position: relative;
     width: 80%; height:50%;
@@ -45,4 +57,4 @@ section .search-button a{
     left:40%; top:50%;
     font-size: 14px;
     color:#fff;
-}
+} */
