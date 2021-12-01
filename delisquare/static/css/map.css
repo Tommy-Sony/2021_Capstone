@@ -45,6 +45,9 @@ section h1{
     color:rgb(72, 181, 196);
 }
 
+section .map{
+    animation: fadein 3s;
+}
 
 @keyframes fadein{
     from{
